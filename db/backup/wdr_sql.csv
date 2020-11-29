@@ -1,0 +1,763 @@
+Years,Country,HappinessRank,HappinessScore,Economy,Family,Health,Freedom,Generosity,Trust,DystopiaResidual,CountryCode,Region,IncomeGroup,OECD
+2015,afghanistan,153,3.58,0.32,0.3,0.3,0.23,0.37,0.1,1.95,AFG,South Asia,Low income,0
+2015,angola,137,4.03,0.76,0.86,0.17,0.1,0.12,0.07,1.95,AGO,Sub-Saharan Africa,Lower middle income,0
+2015,albania,95,4.96,0.88,0.8,0.81,0.36,0.14,0.06,1.9,ALB,Europe & Central Asia,Upper middle income,0
+2015,united arab emirates,20,6.9,1.43,1.13,0.81,0.64,0.26,0.39,2.25,ARE,Middle East & North Africa,High income,0
+2015,argentina,30,6.57,1.05,1.25,0.79,0.45,0.11,0.08,2.84,ARG,Latin America & Caribbean,Upper middle income,0
+2015,armenia,127,4.35,0.77,0.78,0.73,0.2,0.08,0.04,1.76,ARM,Europe & Central Asia,Upper middle income,0
+2015,australia,10,7.28,1.33,1.31,0.93,0.65,0.44,0.36,2.27,AUS,East Asia & Pacific,High income,1
+2015,austria,13,7.2,1.34,1.3,0.89,0.62,0.33,0.19,2.53,AUT,Europe & Central Asia,High income,1
+2015,azerbaijan,80,5.21,1.02,0.94,0.64,0.37,0.08,0.16,2.0,AZE,Europe & Central Asia,Upper middle income,0
+2015,burundi,157,2.91,0.02,0.42,0.22,0.12,0.2,0.1,1.83,BDI,Sub-Saharan Africa,Low income,0
+2015,belgium,19,6.94,1.31,1.29,0.9,0.58,0.22,0.23,2.41,BEL,Europe & Central Asia,High income,1
+2015,benin,155,3.34,0.29,0.35,0.32,0.48,0.18,0.08,1.63,BEN,Sub-Saharan Africa,Low income,0
+2015,burkina faso,152,3.59,0.26,0.85,0.27,0.39,0.22,0.13,1.46,BFA,Sub-Saharan Africa,Low income,0
+2015,bangladesh,109,4.69,0.4,0.43,0.6,0.41,0.21,0.13,2.52,BGD,South Asia,Lower middle income,0
+2015,bulgaria,134,4.22,1.01,1.11,0.77,0.31,0.12,0.01,0.9,BGR,Europe & Central Asia,Upper middle income,0
+2015,bahrain,49,5.96,1.32,1.22,0.75,0.45,0.17,0.31,1.74,BHR,Middle East & North Africa,High income,0
+2015,bosnia and herzegovina,96,4.95,0.83,0.92,0.79,0.09,0.25,0.0,2.06,BIH,Europe & Central Asia,Upper middle income,0
+2015,belarus,59,5.81,1.03,1.23,0.74,0.38,0.11,0.19,2.13,BLR,Europe & Central Asia,Upper middle income,0
+2015,bolivia,51,5.89,0.68,0.98,0.54,0.57,0.21,0.09,2.82,BOL,Latin America & Caribbean,Lower middle income,0
+2015,brazil,16,6.98,0.98,1.23,0.7,0.49,0.15,0.18,3.26,BRA,Latin America & Caribbean,Upper middle income,0
+2015,bhutan,79,5.25,0.77,1.1,0.57,0.53,0.48,0.15,1.64,BTN,South Asia,Lower middle income,0
+2015,botswana,128,4.33,0.99,1.1,0.05,0.49,0.1,0.12,1.46,BWA,Sub-Saharan Africa,Upper middle income,0
+2015,central african republic,148,3.68,0.08,0.0,0.07,0.49,0.24,0.08,2.72,CAF,Sub-Saharan Africa,Low income,0
+2015,canada,5,7.43,1.33,1.32,0.91,0.63,0.46,0.33,2.45,CAN,North America,High income,1
+2015,switzerland,1,7.59,1.4,1.35,0.94,0.67,0.3,0.42,2.52,CHE,Europe & Central Asia,High income,1
+2015,chile,27,6.67,1.11,1.12,0.86,0.44,0.33,0.13,2.68,CHL,Latin America & Caribbean,High income,1
+2015,china,84,5.14,0.89,0.95,0.82,0.52,0.08,0.03,1.86,CHN,East Asia & Pacific,Upper middle income,0
+2015,côte d'ivoire,151,3.66,0.47,0.77,0.15,0.47,0.2,0.18,1.42,CIV,Sub-Saharan Africa,Lower middle income,0
+2015,cameroon,133,4.25,0.42,0.89,0.23,0.49,0.21,0.06,1.95,CMR,Sub-Saharan Africa,Lower middle income,0
+2015,dem. rep. congo,120,4.52,0.0,1.0,0.1,0.23,0.25,0.08,2.87,COD,Sub-Saharan Africa,Low income,0
+2015,congo,139,3.99,0.68,0.66,0.31,0.41,0.12,0.12,1.68,COG,Sub-Saharan Africa,Lower middle income,0
+2015,colombia,33,6.48,0.92,1.24,0.69,0.53,0.18,0.05,2.86,COL,Latin America & Caribbean,Upper middle income,0
+2015,comoros,140,3.96,0.24,0.79,0.36,0.23,0.17,0.2,1.96,COM,Sub-Saharan Africa,Lower middle income,0
+2015,costa rica,12,7.23,0.96,1.24,0.86,0.63,0.25,0.11,3.18,CRI,Latin America & Caribbean,Upper middle income,0
+2015,cyprus,67,5.69,1.21,0.89,0.92,0.41,0.31,0.06,1.89,CYP,Europe & Central Asia,High income,0
+2015,czech republic,31,6.51,1.18,1.21,0.84,0.46,0.11,0.03,2.68,CZE,Europe & Central Asia,High income,1
+2015,germany,26,6.75,1.33,1.3,0.89,0.61,0.28,0.22,2.12,DEU,Europe & Central Asia,High income,1
+2015,djibouti,126,4.37,0.44,0.59,0.36,0.46,0.18,0.28,2.05,DJI,Middle East & North Africa,Lower middle income,0
+2015,denmark,3,7.53,1.33,1.36,0.87,0.65,0.34,0.48,2.49,DNK,Europe & Central Asia,High income,1
+2015,dominican republic,98,4.89,0.9,1.17,0.67,0.58,0.22,0.14,1.21,DOM,Latin America & Caribbean,Upper middle income,0
+2015,algeria,68,5.61,0.94,1.08,0.62,0.29,0.08,0.17,2.43,DZA,Middle East & North Africa,Upper middle income,0
+2015,ecuador,48,5.98,0.86,1.0,0.79,0.49,0.12,0.18,2.54,ECU,Latin America & Caribbean,Upper middle income,0
+2015,egypt,135,4.19,0.88,0.75,0.62,0.17,0.11,0.06,1.6,EGY,Middle East & North Africa,Lower middle income,0
+2015,spain,36,6.33,1.23,1.31,0.96,0.46,0.18,0.06,2.12,ESP,Europe & Central Asia,High income,1
+2015,estonia,73,5.43,1.15,1.23,0.77,0.45,0.09,0.15,1.59,EST,Europe & Central Asia,High income,1
+2015,ethiopia,122,4.51,0.19,0.6,0.44,0.43,0.24,0.15,2.45,ETH,Sub-Saharan Africa,Low income,0
+2015,finland,6,7.41,1.29,1.32,0.89,0.64,0.23,0.41,2.62,FIN,Europe & Central Asia,High income,1
+2015,france,29,6.58,1.28,1.26,0.95,0.55,0.12,0.21,2.21,FRA,Europe & Central Asia,High income,1
+2015,gabon,143,3.9,1.06,0.91,0.43,0.32,0.07,0.11,1.0,GAB,Sub-Saharan Africa,Upper middle income,0
+2015,united kingdom,21,6.87,1.27,1.29,0.91,0.6,0.52,0.32,1.97,GBR,Europe & Central Asia,High income,1
+2015,georgia,130,4.3,0.74,0.39,0.73,0.41,0.06,0.38,1.6,GEO,Europe & Central Asia,Upper middle income,0
+2015,ghana,114,4.63,0.55,0.68,0.4,0.42,0.23,0.04,2.31,GHA,Sub-Saharan Africa,Lower middle income,0
+2015,guinea,150,3.66,0.17,0.46,0.24,0.38,0.29,0.12,1.99,GIN,Sub-Saharan Africa,Low income,0
+2015,greece,102,4.86,1.15,0.93,0.88,0.08,0.0,0.01,1.8,GRC,Europe & Central Asia,High income,1
+2015,guatemala,43,6.12,0.75,1.04,0.64,0.58,0.27,0.09,2.74,GTM,Latin America & Caribbean,Upper middle income,0
+2015,"hong kong sar, china",72,5.47,1.39,1.06,1.01,0.6,0.39,0.37,0.65,HKG,East Asia & Pacific,High income,0
+2015,honduras,105,4.79,0.6,0.95,0.7,0.4,0.23,0.07,1.84,HND,Latin America & Caribbean,Lower middle income,0
+2015,croatia,62,5.76,1.08,0.8,0.79,0.26,0.05,0.02,2.75,HRV,Europe & Central Asia,High income,0
+2015,haiti,119,4.52,0.27,0.74,0.39,0.24,0.46,0.17,2.24,HTI,Latin America & Caribbean,Low income,0
+2015,hungary,104,4.8,1.12,1.2,0.76,0.32,0.13,0.03,1.24,HUN,Europe & Central Asia,High income,1
+2015,indonesia,74,5.4,0.83,1.09,0.64,0.47,0.52,0.0,1.86,IDN,East Asia & Pacific,Lower middle income,0
+2015,india,117,4.57,0.64,0.38,0.52,0.4,0.26,0.08,2.28,IND,South Asia,Lower middle income,0
+2015,ireland,18,6.94,1.34,1.37,0.9,0.62,0.46,0.29,1.98,IRL,Europe & Central Asia,High income,1
+2015,iran,110,4.69,1.01,0.54,0.7,0.3,0.38,0.06,1.69,IRN,Middle East & North Africa,Upper middle income,0
+2015,iraq,112,4.68,0.99,0.82,0.6,0.0,0.18,0.14,1.95,IRQ,Middle East & North Africa,Upper middle income,0
+2015,iceland,2,7.56,1.3,1.4,0.95,0.63,0.44,0.14,2.7,ISL,Europe & Central Asia,High income,0
+2015,israel,11,7.28,1.23,1.22,0.91,0.41,0.33,0.08,3.09,ISR,Middle East & North Africa,High income,1
+2015,italy,50,5.95,1.25,1.2,0.95,0.26,0.23,0.03,2.03,ITA,Europe & Central Asia,High income,1
+2015,jamaica,65,5.71,0.81,1.15,0.69,0.5,0.21,0.02,2.32,JAM,Latin America & Caribbean,Upper middle income,0
+2015,jordan,82,5.19,0.9,1.05,0.7,0.41,0.11,0.14,1.88,JOR,Middle East & North Africa,Upper middle income,0
+2015,japan,46,5.99,1.27,1.26,0.99,0.5,0.11,0.18,1.68,JPN,East Asia & Pacific,High income,1
+2015,kazakhstan,54,5.86,1.12,1.12,0.64,0.52,0.12,0.08,2.25,KAZ,Europe & Central Asia,Upper middle income,0
+2015,kenya,125,4.42,0.36,1.0,0.41,0.42,0.38,0.06,1.79,KEN,Sub-Saharan Africa,Lower middle income,0
+2015,kyrgyz republic,77,5.29,0.47,1.15,0.65,0.43,0.3,0.04,2.23,KGZ,Europe & Central Asia,Lower middle income,0
+2015,cambodia,145,3.82,0.46,0.63,0.61,0.66,0.4,0.07,0.98,KHM,East Asia & Pacific,Lower middle income,0
+2015,korea,47,5.98,1.24,0.96,0.97,0.33,0.19,0.08,2.22,KOR,East Asia & Pacific,High income,1
+2015,kuwait,39,6.3,1.55,1.17,0.72,0.55,0.16,0.26,1.88,KWT,Middle East & North Africa,High income,0
+2015,lao pdr,99,4.88,0.59,0.74,0.55,0.6,0.42,0.24,1.74,LAO,East Asia & Pacific,Lower middle income,0
+2015,lebanon,103,4.84,1.03,0.8,0.84,0.34,0.22,0.05,1.57,LBN,Middle East & North Africa,Upper middle income,0
+2015,liberia,116,4.57,0.07,0.79,0.34,0.29,0.24,0.06,2.78,LBR,Sub-Saharan Africa,Low income,0
+2015,libya,63,5.75,1.13,1.12,0.7,0.42,0.18,0.11,2.09,LBY,Middle East & North Africa,Upper middle income,0
+2015,sri lanka,132,4.27,0.84,1.02,0.71,0.54,0.41,0.09,0.67,LKA,South Asia,Upper middle income,0
+2015,lesotho,97,4.9,0.38,1.04,0.08,0.32,0.16,0.13,2.8,LSO,Sub-Saharan Africa,Lower middle income,0
+2015,lithuania,56,5.83,1.15,1.26,0.73,0.21,0.03,0.01,2.45,LTU,Europe & Central Asia,High income,1
+2015,luxembourg,17,6.95,1.56,1.22,0.92,0.62,0.28,0.38,1.97,LUX,Europe & Central Asia,High income,1
+2015,latvia,89,5.1,1.11,1.1,0.72,0.3,0.18,0.06,1.62,LVA,Europe & Central Asia,High income,1
+2015,morocco,92,5.01,0.73,0.64,0.61,0.42,0.07,0.09,2.45,MAR,Middle East & North Africa,Lower middle income,0
+2015,moldova,52,5.89,0.59,1.02,0.62,0.33,0.21,0.02,3.11,MDA,Europe & Central Asia,Lower middle income,0
+2015,madagascar,147,3.68,0.21,0.67,0.47,0.19,0.21,0.08,1.85,MDG,Sub-Saharan Africa,Low income,0
+2015,mexico,14,7.19,1.02,0.91,0.81,0.48,0.14,0.21,3.6,MEX,Latin America & Caribbean,Upper middle income,1
+2015,north macedonia,93,5.01,0.92,1.0,0.74,0.33,0.22,0.05,1.74,MKD,Europe & Central Asia,Upper middle income,0
+2015,mali,138,4.0,0.26,1.04,0.21,0.39,0.19,0.12,1.79,MLI,Sub-Saharan Africa,Low income,0
+2015,malta,37,6.3,1.21,1.3,0.89,0.6,0.52,0.14,1.65,MLT,Middle East & North Africa,High income,0
+2015,myanmar,129,4.31,0.27,0.71,0.48,0.44,0.8,0.19,1.42,MMR,East Asia & Pacific,Lower middle income,0
+2015,montenegro,82,5.19,0.97,0.91,0.73,0.18,0.16,0.14,2.1,MNE,Europe & Central Asia,Upper middle income,0
+2015,mongolia,100,4.87,0.83,1.3,0.6,0.44,0.33,0.03,1.35,MNG,East Asia & Pacific,Lower middle income,0
+2015,mozambique,94,4.97,0.08,1.03,0.09,0.34,0.22,0.16,3.05,MOZ,Sub-Saharan Africa,Low income,0
+2015,mauritania,124,4.44,0.45,0.87,0.36,0.24,0.22,0.17,2.12,MRT,Sub-Saharan Africa,Lower middle income,0
+2015,mauritius,71,5.48,1.01,0.99,0.71,0.56,0.38,0.08,1.76,MUS,Sub-Saharan Africa,Upper middle income,0
+2015,malawi,131,4.29,0.02,0.41,0.23,0.43,0.33,0.07,2.81,MWI,Sub-Saharan Africa,Low income,0
+2015,malaysia,61,5.77,1.12,1.07,0.72,0.53,0.33,0.11,1.89,MYS,East Asia & Pacific,Upper middle income,0
+2015,niger,144,3.85,0.07,0.77,0.3,0.48,0.19,0.16,1.88,NER,Sub-Saharan Africa,Low income,0
+2015,nigeria,78,5.27,0.65,0.9,0.16,0.34,0.27,0.04,2.89,NGA,Sub-Saharan Africa,Lower middle income,0
+2015,nicaragua,57,5.83,0.59,1.14,0.74,0.55,0.28,0.19,2.32,NIC,Latin America & Caribbean,Lower middle income,0
+2015,netherlands,7,7.38,1.33,1.28,0.89,0.62,0.48,0.32,2.47,NLD,Europe & Central Asia,High income,1
+2015,norway,4,7.52,1.46,1.33,0.89,0.67,0.35,0.37,2.47,NOR,Europe & Central Asia,High income,1
+2015,nepal,121,4.51,0.36,0.86,0.57,0.38,0.32,0.06,1.96,NPL,South Asia,Low income,0
+2015,new zealand,9,7.29,1.25,1.32,0.91,0.64,0.48,0.43,2.26,NZL,East Asia & Pacific,High income,1
+2015,oman,22,6.85,1.36,1.08,0.76,0.63,0.22,0.33,2.47,OMN,Middle East & North Africa,High income,0
+2015,pakistan,81,5.19,0.6,0.41,0.51,0.12,0.34,0.1,3.11,PAK,South Asia,Lower middle income,0
+2015,panama,25,6.79,1.06,1.2,0.8,0.54,0.24,0.09,2.85,PAN,Latin America & Caribbean,High income,0
+2015,peru,58,5.82,0.9,0.97,0.73,0.41,0.15,0.06,2.59,PER,Latin America & Caribbean,Upper middle income,0
+2015,philippines,90,5.07,0.71,1.04,0.58,0.63,0.25,0.12,1.75,PHL,East Asia & Pacific,Lower middle income,0
+2015,poland,60,5.79,1.13,1.28,0.78,0.53,0.17,0.04,1.87,POL,Europe & Central Asia,High income,1
+2015,portugal,88,5.1,1.16,1.14,0.88,0.51,0.14,0.01,1.26,PRT,Europe & Central Asia,High income,1
+2015,paraguay,53,5.88,0.76,1.3,0.66,0.54,0.34,0.08,2.19,PRY,Latin America & Caribbean,Upper middle income,0
+2015,qatar,28,6.61,1.69,1.08,0.8,0.64,0.33,0.52,1.56,QAT,Middle East & North Africa,High income,0
+2015,romania,86,5.12,1.04,0.89,0.77,0.35,0.14,0.01,1.93,ROU,Europe & Central Asia,Upper middle income,0
+2015,russia,64,5.72,1.14,1.24,0.67,0.37,0.0,0.03,2.27,RUS,Europe & Central Asia,Upper middle income,0
+2015,rwanda,154,3.47,0.22,0.77,0.43,0.59,0.23,0.55,0.67,RWA,Sub-Saharan Africa,Low income,0
+2015,saudi arabia,35,6.41,1.4,1.08,0.72,0.31,0.14,0.33,2.44,SAU,Middle East & North Africa,High income,0
+2015,sudan,118,4.55,0.52,1.01,0.37,0.1,0.19,0.15,2.21,SDN,Sub-Saharan Africa,Lower middle income,0
+2015,senegal,142,3.9,0.36,0.98,0.44,0.37,0.21,0.11,1.44,SEN,Sub-Saharan Africa,Lower middle income,0
+2015,singapore,24,6.8,1.52,1.02,1.03,0.54,0.31,0.49,1.89,SGP,East Asia & Pacific,High income,0
+2015,sierra leone,123,4.51,0.33,0.96,0.0,0.41,0.21,0.09,2.51,SLE,Sub-Saharan Africa,Low income,0
+2015,el salvador,42,6.13,0.76,1.03,0.68,0.4,0.11,0.12,3.04,SLV,Latin America & Caribbean,Lower middle income,0
+2015,serbia,87,5.12,0.92,1.01,0.75,0.2,0.19,0.03,2.03,SRB,Europe & Central Asia,Upper middle income,0
+2015,suriname,40,6.27,1.0,0.97,0.61,0.6,0.17,0.14,2.79,SUR,Latin America & Caribbean,Upper middle income,0
+2015,slovak republic,45,6.0,1.17,1.27,0.79,0.32,0.17,0.03,2.25,SVK,Europe & Central Asia,High income,1
+2015,slovenia,55,5.85,1.18,1.27,0.87,0.61,0.25,0.04,1.62,SVN,Europe & Central Asia,High income,1
+2015,sweden,8,7.36,1.33,1.29,0.91,0.66,0.36,0.44,2.37,SWE,Europe & Central Asia,High income,1
+2015,eswatini,101,4.87,0.71,1.07,0.08,0.31,0.18,0.03,2.49,SWZ,Sub-Saharan Africa,Lower middle income,0
+2015,syrian arab republic,156,3.01,0.66,0.47,0.72,0.16,0.47,0.19,0.33,SYR,Middle East & North Africa,Low income,0
+2015,chad,149,3.67,0.34,0.76,0.15,0.24,0.18,0.05,1.94,TCD,Sub-Saharan Africa,Low income,0
+2015,togo,158,2.84,0.21,0.14,0.28,0.36,0.17,0.11,1.57,TGO,Sub-Saharan Africa,Low income,0
+2015,thailand,34,6.46,0.97,1.27,0.74,0.56,0.58,0.03,2.32,THA,East Asia & Pacific,Upper middle income,0
+2015,tajikistan,106,4.79,0.39,0.86,0.57,0.47,0.23,0.15,2.11,TJK,Europe & Central Asia,Low income,0
+2015,turkmenistan,70,5.55,0.96,1.23,0.54,0.48,0.17,0.31,1.87,TKM,Europe & Central Asia,Upper middle income,0
+2015,trinidad and tobago,41,6.17,1.21,1.18,0.61,0.56,0.32,0.01,2.27,TTO,Latin America & Caribbean,High income,0
+2015,tunisia,107,4.74,0.88,0.6,0.74,0.26,0.06,0.06,2.12,TUN,Middle East & North Africa,Lower middle income,0
+2015,turkey,76,5.33,1.06,0.95,0.73,0.23,0.12,0.16,2.09,TUR,Europe & Central Asia,Upper middle income,1
+2015,tanzania,146,3.78,0.29,1.0,0.38,0.33,0.34,0.06,1.38,TZA,Sub-Saharan Africa,Low income,0
+2015,uganda,141,3.93,0.21,1.13,0.34,0.46,0.29,0.07,1.43,UGA,Sub-Saharan Africa,Low income,0
+2015,ukraine,111,4.68,0.8,1.2,0.67,0.25,0.15,0.03,1.57,UKR,Europe & Central Asia,Lower middle income,0
+2015,uruguay,32,6.49,1.06,1.21,0.81,0.6,0.23,0.25,2.32,URY,Latin America & Caribbean,High income,0
+2015,united states,15,7.12,1.39,1.25,0.86,0.55,0.4,0.16,2.51,USA,North America,High income,1
+2015,uzbekistan,44,6.0,0.63,1.34,0.6,0.66,0.23,0.31,2.24,UZB,Europe & Central Asia,Lower middle income,0
+2015,venezuela,23,6.81,1.04,1.26,0.72,0.43,0.06,0.11,3.19,VEN,Latin America & Caribbean,Upper middle income,0
+2015,vietnam,75,5.36,0.63,0.91,0.75,0.59,0.17,0.1,2.2,VNM,East Asia & Pacific,Lower middle income,0
+2015,kosovo,69,5.59,0.8,0.81,0.63,0.25,0.28,0.05,2.77,XKX,Europe & Central Asia,Upper middle income,0
+2015,yemen,136,4.08,0.55,0.68,0.4,0.36,0.09,0.08,1.92,YEM,Middle East & North Africa,Low income,0
+2015,south africa,113,4.64,0.92,1.18,0.28,0.33,0.12,0.09,1.72,ZAF,Sub-Saharan Africa,Upper middle income,0
+2015,zambia,85,5.13,0.47,0.92,0.3,0.49,0.2,0.12,2.63,ZMB,Sub-Saharan Africa,Lower middle income,0
+2015,zimbabwe,115,4.61,0.27,1.03,0.33,0.26,0.19,0.08,2.44,ZWE,Sub-Saharan Africa,Lower middle income,0
+2016,afghanistan,154,3.36,0.38,0.11,0.17,0.16,0.31,0.07,2.15,AFG,South Asia,Low income,0
+2016,angola,141,3.87,0.85,0.66,0.05,0.01,0.12,0.08,2.09,AGO,Sub-Saharan Africa,Lower middle income,0
+2016,albania,109,4.66,0.96,0.5,0.73,0.32,0.17,0.05,1.93,ALB,Europe & Central Asia,Upper middle income,0
+2016,united arab emirates,28,6.57,1.57,0.87,0.73,0.56,0.27,0.36,2.22,ARE,Middle East & North Africa,High income,0
+2016,argentina,26,6.65,1.15,1.07,0.7,0.42,0.11,0.07,3.13,ARG,Latin America & Caribbean,Upper middle income,0
+2016,armenia,121,4.36,0.86,0.62,0.64,0.14,0.08,0.04,1.98,ARM,Europe & Central Asia,Upper middle income,0
+2016,australia,9,7.31,1.44,1.1,0.85,0.57,0.47,0.32,2.55,AUS,East Asia & Pacific,High income,1
+2016,austria,12,7.12,1.45,1.08,0.81,0.54,0.33,0.21,2.69,AUT,Europe & Central Asia,High income,1
+2016,azerbaijan,81,5.29,1.12,0.76,0.55,0.35,0.06,0.18,2.27,AZE,Europe & Central Asia,Upper middle income,0
+2016,burundi,157,2.91,0.07,0.23,0.16,0.04,0.2,0.09,2.1,BDI,Sub-Saharan Africa,Low income,0
+2016,belgium,18,6.93,1.43,1.05,0.82,0.51,0.24,0.26,2.61,BEL,Europe & Central Asia,High income,1
+2016,benin,153,3.48,0.39,0.1,0.21,0.4,0.2,0.07,2.11,BEN,Sub-Saharan Africa,Low income,0
+2016,burkina faso,145,3.74,0.32,0.63,0.21,0.33,0.24,0.13,1.87,BFA,Sub-Saharan Africa,Low income,0
+2016,bangladesh,110,4.64,0.54,0.25,0.53,0.4,0.19,0.13,2.61,BGD,South Asia,Lower middle income,0
+2016,bulgaria,129,4.22,1.11,0.93,0.68,0.21,0.13,0.01,1.15,BGR,Europe & Central Asia,Upper middle income,0
+2016,bahrain,42,6.22,1.44,0.94,0.66,0.47,0.17,0.26,2.27,BHR,Middle East & North Africa,High income,0
+2016,bosnia and herzegovina,87,5.16,0.93,0.64,0.71,0.1,0.3,0.0,2.48,BIH,Europe & Central Asia,Upper middle income,0
+2016,belarus,61,5.8,1.13,1.05,0.63,0.29,0.14,0.17,2.39,BLR,Europe & Central Asia,Upper middle income,0
+2016,belize,52,5.96,0.88,0.69,0.46,0.51,0.24,0.11,3.08,BLZ,Latin America & Caribbean,Upper middle income,0
+2016,bolivia,59,5.82,0.79,0.84,0.47,0.51,0.22,0.08,2.92,BOL,Latin America & Caribbean,Lower middle income,0
+2016,brazil,17,6.95,1.09,1.04,0.61,0.4,0.16,0.14,3.51,BRA,Latin America & Caribbean,Upper middle income,0
+2016,bhutan,84,5.2,0.85,0.91,0.5,0.46,0.49,0.16,1.83,BTN,South Asia,Lower middle income,0
+2016,botswana,137,3.97,1.09,0.89,0.35,0.44,0.12,0.11,0.97,BWA,Sub-Saharan Africa,Upper middle income,0
+2016,canada,6,7.4,1.44,1.1,0.83,0.57,0.45,0.31,2.7,CAN,North America,High income,1
+2016,switzerland,2,7.51,1.53,1.15,0.86,0.59,0.28,0.41,2.69,CHE,Europe & Central Asia,High income,1
+2016,chile,24,6.71,1.22,0.91,0.82,0.38,0.32,0.11,2.96,CHL,Latin America & Caribbean,High income,1
+2016,china,83,5.25,1.03,0.79,0.74,0.44,0.05,0.03,2.17,CHN,East Asia & Pacific,Upper middle income,0
+2016,côte d'ivoire,139,3.92,0.56,0.58,0.04,0.41,0.2,0.16,1.97,CIV,Sub-Saharan Africa,Lower middle income,0
+2016,cameroon,114,4.51,0.52,0.63,0.13,0.43,0.23,0.06,2.52,CMR,Sub-Saharan Africa,Lower middle income,0
+2016,dem. rep. congo,125,4.27,0.06,0.81,0.19,0.16,0.25,0.06,2.75,COD,Sub-Saharan Africa,Low income,0
+2016,congo,127,4.24,0.77,0.48,0.28,0.38,0.12,0.1,2.11,COG,Sub-Saharan Africa,Lower middle income,0
+2016,colombia,31,6.48,1.03,1.02,0.6,0.45,0.16,0.05,3.17,COL,Latin America & Caribbean,Upper middle income,0
+2016,comoros,138,3.96,0.28,0.6,0.3,0.15,0.18,0.18,2.26,COM,Sub-Saharan Africa,Lower middle income,0
+2016,costa rica,14,7.09,1.07,1.02,0.76,0.55,0.23,0.11,3.35,CRI,Latin America & Caribbean,Upper middle income,0
+2016,cyprus,69,5.55,1.32,0.71,0.85,0.3,0.28,0.05,2.04,CYP,Europe & Central Asia,High income,0
+2016,czech republic,27,6.6,1.31,1.01,0.76,0.41,0.1,0.04,2.96,CZE,Europe & Central Asia,High income,1
+2016,germany,16,6.99,1.45,1.1,0.81,0.53,0.3,0.29,2.51,DEU,Europe & Central Asia,High income,1
+2016,denmark,1,7.53,1.44,1.16,0.8,0.58,0.36,0.44,2.74,DNK,Europe & Central Asia,High income,1
+2016,dominican republic,89,5.16,1.03,0.99,0.58,0.52,0.21,0.12,1.7,DOM,Latin America & Caribbean,Upper middle income,0
+2016,algeria,38,6.36,1.05,0.83,0.62,0.21,0.07,0.16,3.41,DZA,Middle East & North Africa,Upper middle income,0
+2016,ecuador,51,5.98,0.97,0.86,0.69,0.4,0.1,0.18,2.77,ECU,Latin America & Caribbean,Upper middle income,0
+2016,egypt,120,4.36,0.95,0.5,0.52,0.19,0.13,0.1,1.97,EGY,Middle East & North Africa,Lower middle income,0
+2016,spain,37,6.36,1.34,1.13,0.88,0.38,0.18,0.06,2.4,ESP,Europe & Central Asia,High income,1
+2016,estonia,72,5.52,1.28,1.05,0.68,0.42,0.08,0.19,1.82,EST,Europe & Central Asia,High income,1
+2016,ethiopia,115,4.51,0.29,0.38,0.35,0.37,0.3,0.17,2.66,ETH,Sub-Saharan Africa,Low income,0
+2016,finland,5,7.41,1.41,1.13,0.81,0.57,0.25,0.41,2.83,FIN,Europe & Central Asia,High income,1
+2016,france,32,6.48,1.39,1.01,0.84,0.47,0.12,0.18,2.47,FRA,Europe & Central Asia,High income,1
+2016,gabon,134,4.12,1.16,0.72,0.35,0.28,0.06,0.09,1.45,GAB,Sub-Saharan Africa,Upper middle income,0
+2016,united kingdom,23,6.73,1.4,1.09,0.81,0.5,0.5,0.27,2.15,GBR,Europe & Central Asia,High income,1
+2016,georgia,126,4.25,0.84,0.19,0.64,0.32,0.07,0.32,1.87,GEO,Europe & Central Asia,Upper middle income,0
+2016,ghana,124,4.28,0.63,0.49,0.3,0.41,0.21,0.03,2.2,GHA,Sub-Saharan Africa,Lower middle income,0
+2016,guinea,151,3.61,0.22,0.31,0.19,0.31,0.3,0.12,2.16,GIN,Sub-Saharan Africa,Low income,0
+2016,greece,99,5.03,1.25,0.75,0.8,0.06,0.0,0.04,2.13,GRC,Europe & Central Asia,High income,1
+2016,guatemala,39,6.32,0.83,0.87,0.54,0.5,0.29,0.09,3.2,GTM,Latin America & Caribbean,Upper middle income,0
+2016,"hong kong sar, china",75,5.46,1.51,0.87,0.95,0.48,0.4,0.32,0.93,HKG,East Asia & Pacific,High income,0
+2016,honduras,104,4.87,0.69,0.76,0.58,0.27,0.2,0.07,2.3,HND,Latin America & Caribbean,Lower middle income,0
+2016,croatia,74,5.49,1.19,0.61,0.71,0.24,0.18,0.04,2.52,HRV,Europe & Central Asia,High income,0
+2016,haiti,136,4.03,0.34,0.3,0.27,0.12,0.48,0.14,2.37,HTI,Latin America & Caribbean,Low income,0
+2016,hungary,91,5.15,1.24,0.93,0.68,0.2,0.1,0.04,1.95,HUN,Europe & Central Asia,High income,1
+2016,indonesia,79,5.31,0.95,0.88,0.49,0.39,0.57,0.0,2.03,IDN,East Asia & Pacific,Lower middle income,0
+2016,india,118,4.4,0.74,0.29,0.45,0.4,0.25,0.09,2.18,IND,South Asia,Lower middle income,0
+2016,ireland,19,6.91,1.48,1.16,0.81,0.54,0.45,0.3,2.16,IRL,Europe & Central Asia,High income,1
+2016,iran,105,4.81,1.12,0.39,0.64,0.23,0.39,0.06,2.0,IRN,Middle East & North Africa,Upper middle income,0
+2016,iraq,112,4.58,1.07,0.59,0.51,0.25,0.2,0.14,1.82,IRQ,Middle East & North Africa,Upper middle income,0
+2016,iceland,3,7.5,1.43,1.18,0.87,0.57,0.48,0.15,2.83,ISL,Europe & Central Asia,High income,0
+2016,israel,11,7.27,1.34,1.0,0.85,0.36,0.32,0.09,3.31,ISR,Middle East & North Africa,High income,1
+2016,italy,50,5.98,1.35,1.04,0.85,0.19,0.17,0.03,2.35,ITA,Europe & Central Asia,High income,1
+2016,jamaica,73,5.51,0.89,0.96,0.59,0.44,0.22,0.04,2.36,JAM,Latin America & Caribbean,Upper middle income,0
+2016,jordan,80,5.3,1.0,0.86,0.61,0.36,0.14,0.13,2.2,JOR,Middle East & North Africa,Upper middle income,0
+2016,japan,53,5.92,1.38,1.06,0.91,0.47,0.1,0.19,1.81,JPN,East Asia & Pacific,High income,1
+2016,kazakhstan,54,5.92,1.23,0.96,0.57,0.41,0.15,0.11,2.49,KAZ,Europe & Central Asia,Upper middle income,0
+2016,kenya,122,4.36,0.52,0.76,0.3,0.41,0.41,0.07,1.88,KEN,Sub-Saharan Africa,Lower middle income,0
+2016,kyrgyz republic,85,5.19,0.56,0.95,0.55,0.4,0.38,0.05,2.28,KGZ,Europe & Central Asia,Lower middle income,0
+2016,cambodia,140,3.91,0.56,0.54,0.42,0.59,0.4,0.08,1.32,KHM,East Asia & Pacific,Lower middle income,0
+2016,korea,57,5.84,1.36,0.72,0.89,0.25,0.19,0.08,2.35,KOR,East Asia & Pacific,High income,1
+2016,kuwait,41,6.24,1.62,0.88,0.64,0.43,0.16,0.24,2.28,KWT,Middle East & North Africa,High income,0
+2016,lao pdr,102,4.88,0.68,0.55,0.38,0.52,0.43,0.22,2.09,LAO,East Asia & Pacific,Lower middle income,0
+2016,lebanon,93,5.13,1.12,0.64,0.76,0.26,0.24,0.03,2.07,LBN,Middle East & North Africa,Upper middle income,0
+2016,liberia,150,3.62,0.11,0.5,0.23,0.26,0.24,0.05,2.23,LBR,Sub-Saharan Africa,Low income,0
+2016,libya,67,5.62,1.07,0.95,0.52,0.41,0.17,0.1,2.39,LBY,Middle East & North Africa,Upper middle income,0
+2016,sri lanka,117,4.42,0.97,0.85,0.62,0.51,0.47,0.08,0.92,LKA,South Asia,Upper middle income,0
+2016,lithuania,60,5.81,1.27,1.06,0.65,0.19,0.02,0.02,2.61,LTU,Europe & Central Asia,High income,1
+2016,luxembourg,20,6.87,1.7,1.04,0.85,0.55,0.28,0.35,2.11,LUX,Europe & Central Asia,High income,1
+2016,latvia,68,5.56,1.22,0.95,0.64,0.28,0.17,0.09,2.21,LVA,Europe & Central Asia,High income,1
+2016,morocco,90,5.15,0.84,0.39,0.59,0.26,0.04,0.08,2.95,MAR,Middle East & North Africa,Lower middle income,0
+2016,moldova,55,5.9,0.69,0.83,0.52,0.25,0.2,0.02,3.38,MDA,Europe & Central Asia,Lower middle income,0
+2016,madagascar,148,3.7,0.28,0.46,0.37,0.14,0.22,0.08,2.15,MDG,Sub-Saharan Africa,Low income,0
+2016,mexico,21,6.78,1.12,0.71,0.71,0.38,0.12,0.18,3.56,MEX,Latin America & Caribbean,Upper middle income,1
+2016,north macedonia,95,5.12,1.02,0.78,0.65,0.28,0.24,0.07,2.09,MKD,Europe & Central Asia,Upper middle income,0
+2016,mali,135,4.07,0.31,0.86,0.16,0.28,0.21,0.14,2.11,MLI,Sub-Saharan Africa,Low income,0
+2016,malta,30,6.49,1.31,1.1,0.8,0.55,0.56,0.18,1.99,MLT,Middle East & North Africa,High income,0
+2016,myanmar,119,4.4,0.34,0.7,0.4,0.43,0.82,0.2,1.51,MMR,East Asia & Pacific,Lower middle income,0
+2016,montenegro,88,5.16,1.08,0.74,0.64,0.15,0.17,0.13,2.26,MNE,Europe & Central Asia,Upper middle income,0
+2016,mongolia,101,4.91,0.99,1.09,0.55,0.36,0.35,0.03,1.54,MNG,East Asia & Pacific,Lower middle income,0
+2016,mauritania,130,4.2,0.61,0.84,0.29,0.13,0.23,0.18,1.93,MRT,Sub-Saharan Africa,Lower middle income,0
+2016,mauritius,66,5.65,1.14,0.76,0.66,0.46,0.37,0.05,2.2,MUS,Sub-Saharan Africa,Upper middle income,0
+2016,malawi,132,4.16,0.09,0.15,0.29,0.41,0.31,0.08,2.83,MWI,Sub-Saharan Africa,Low income,0
+2016,malaysia,47,6.01,1.25,0.88,0.62,0.39,0.41,0.09,2.35,MYS,East Asia & Pacific,Upper middle income,0
+2016,namibia,113,4.57,0.93,0.7,0.35,0.49,0.08,0.1,1.92,NAM,Sub-Saharan Africa,Upper middle income,0
+2016,niger,142,3.86,0.13,0.61,0.26,0.38,0.21,0.17,2.09,NER,Sub-Saharan Africa,Low income,0
+2016,nigeria,103,4.88,0.75,0.64,0.05,0.28,0.23,0.03,2.89,NGA,Sub-Saharan Africa,Lower middle income,0
+2016,nicaragua,48,5.99,0.69,0.9,0.65,0.47,0.3,0.16,2.82,NIC,Latin America & Caribbean,Lower middle income,0
+2016,netherlands,7,7.34,1.46,1.03,0.81,0.55,0.47,0.3,2.71,NLD,Europe & Central Asia,High income,1
+2016,norway,4,7.5,1.58,1.13,0.8,0.6,0.38,0.36,2.66,NOR,Europe & Central Asia,High income,1
+2016,nepal,107,4.79,0.45,0.7,0.5,0.37,0.38,0.07,2.33,NPL,South Asia,Low income,0
+2016,new zealand,8,7.33,1.36,1.17,0.83,0.58,0.49,0.42,2.48,NZL,East Asia & Pacific,High income,1
+2016,pakistan,92,5.13,0.69,0.26,0.4,0.15,0.31,0.14,3.18,PAK,South Asia,Lower middle income,0
+2016,panama,25,6.7,1.18,0.99,0.71,0.49,0.24,0.08,3.01,PAN,Latin America & Caribbean,High income,0
+2016,peru,64,5.74,1.0,0.81,0.63,0.38,0.15,0.05,2.73,PER,Latin America & Caribbean,Upper middle income,0
+2016,philippines,82,5.28,0.81,0.88,0.47,0.55,0.22,0.12,2.23,PHL,East Asia & Pacific,Lower middle income,0
+2016,poland,57,5.84,1.25,1.05,0.69,0.45,0.14,0.06,2.2,POL,Europe & Central Asia,High income,1
+2016,puerto rico,15,7.04,1.36,1.08,0.78,0.47,0.22,0.12,3.01,PRI,Latin America & Caribbean,High income,0
+2016,portugal,94,5.12,1.28,0.94,0.79,0.45,0.12,0.02,1.53,PRT,Europe & Central Asia,High income,1
+2016,paraguay,70,5.54,0.89,1.11,0.58,0.46,0.25,0.07,2.16,PRY,Latin America & Caribbean,Upper middle income,0
+2016,qatar,36,6.38,1.82,0.88,0.72,0.57,0.32,0.48,1.58,QAT,Middle East & North Africa,High income,0
+2016,romania,71,5.53,1.17,0.73,0.68,0.37,0.13,0.01,2.45,ROU,Europe & Central Asia,Upper middle income,0
+2016,russia,56,5.86,1.23,1.05,0.59,0.33,0.03,0.04,2.59,RUS,Europe & Central Asia,Upper middle income,0
+2016,rwanda,152,3.52,0.33,0.62,0.32,0.54,0.24,0.51,0.97,RWA,Sub-Saharan Africa,Low income,0
+2016,saudi arabia,34,6.38,1.49,0.85,0.59,0.38,0.15,0.3,2.61,SAU,Middle East & North Africa,High income,0
+2016,sudan,133,4.14,0.63,0.82,0.3,0.0,0.18,0.1,2.11,SDN,Sub-Saharan Africa,Lower middle income,0
+2016,senegal,128,4.22,0.44,0.77,0.4,0.31,0.19,0.12,1.98,SEN,Sub-Saharan Africa,Lower middle income,0
+2016,singapore,22,6.74,1.65,0.87,0.95,0.49,0.33,0.47,1.99,SGP,East Asia & Pacific,High income,0
+2016,sierra leone,111,4.64,0.36,0.63,0.0,0.31,0.24,0.08,3.01,SLE,Sub-Saharan Africa,Low income,0
+2016,el salvador,46,6.07,0.87,0.81,0.6,0.37,0.09,0.11,3.22,SLV,Latin America & Caribbean,Lower middle income,0
+2016,somalia,76,5.44,0.0,0.34,0.11,0.57,0.27,0.31,3.84,SOM,Sub-Saharan Africa,Low income,0
+2016,serbia,86,5.18,1.03,0.81,0.65,0.16,0.21,0.04,2.28,SRB,Europe & Central Asia,Upper middle income,0
+2016,south sudan,143,3.83,0.39,0.19,0.16,0.2,0.26,0.13,2.51,SSD,Sub-Saharan Africa,Low income,0
+2016,suriname,40,6.27,1.1,0.78,0.51,0.52,0.17,0.13,3.07,SUR,Latin America & Caribbean,Upper middle income,0
+2016,slovak republic,45,6.08,1.28,1.08,0.7,0.23,0.14,0.03,2.61,SVK,Europe & Central Asia,High income,1
+2016,slovenia,63,5.77,1.3,1.06,0.79,0.53,0.26,0.04,1.8,SVN,Europe & Central Asia,High income,1
+2016,sweden,10,7.29,1.45,1.09,0.83,0.58,0.38,0.41,2.55,SWE,Europe & Central Asia,High income,1
+2016,syrian arab republic,156,3.07,0.75,0.15,0.63,0.07,0.48,0.17,0.82,SYR,Middle East & North Africa,Low income,0
+2016,chad,144,3.76,0.42,0.63,0.04,0.13,0.19,0.05,2.31,TCD,Sub-Saharan Africa,Low income,0
+2016,togo,155,3.3,0.28,0.0,0.25,0.35,0.18,0.12,2.14,TGO,Sub-Saharan Africa,Low income,0
+2016,thailand,33,6.47,1.09,1.04,0.65,0.5,0.59,0.03,2.58,THA,East Asia & Pacific,Upper middle income,0
+2016,tajikistan,100,5.0,0.49,0.76,0.53,0.43,0.26,0.14,2.39,TJK,Europe & Central Asia,Low income,0
+2016,turkmenistan,65,5.66,1.08,1.04,0.44,0.37,0.23,0.28,2.21,TKM,Europe & Central Asia,Upper middle income,0
+2016,trinidad and tobago,43,6.17,1.33,0.99,0.53,0.48,0.32,0.01,2.51,TTO,Latin America & Caribbean,High income,0
+2016,tunisia,98,5.05,0.98,0.43,0.6,0.24,0.04,0.08,2.68,TUN,Middle East & North Africa,Lower middle income,0
+2016,turkey,78,5.39,1.16,0.88,0.65,0.24,0.05,0.12,2.29,TUR,Europe & Central Asia,Upper middle income,1
+2016,tanzania,149,3.67,0.47,0.78,0.36,0.32,0.31,0.05,1.38,TZA,Sub-Saharan Africa,Low income,0
+2016,uganda,145,3.74,0.35,0.91,0.2,0.44,0.27,0.06,1.51,UGA,Sub-Saharan Africa,Low income,0
+2016,ukraine,123,4.32,0.87,1.01,0.59,0.13,0.2,0.02,1.5,UKR,Europe & Central Asia,Lower middle income,0
+2016,uruguay,29,6.55,1.18,1.03,0.72,0.54,0.18,0.21,2.67,URY,Latin America & Caribbean,High income,0
+2016,united states,13,7.1,1.51,1.05,0.78,0.48,0.41,0.15,2.73,USA,North America,High income,1
+2016,uzbekistan,49,5.99,0.74,1.17,0.5,0.61,0.34,0.28,2.35,UZB,Europe & Central Asia,Lower middle income,0
+2016,venezuela,44,6.08,1.13,1.03,0.62,0.2,0.04,0.08,2.97,VEN,Latin America & Caribbean,Upper middle income,0
+2016,vietnam,96,5.06,0.74,0.79,0.66,0.56,0.25,0.12,1.94,VNM,East Asia & Pacific,Lower middle income,0
+2016,kosovo,77,5.4,0.9,0.66,0.54,0.14,0.28,0.07,2.81,XKX,Europe & Central Asia,Upper middle income,0
+2016,yemen,147,3.72,0.58,0.47,0.31,0.23,0.1,0.06,1.97,YEM,Middle East & North Africa,Low income,0
+2016,south africa,116,4.46,1.02,0.96,0.19,0.42,0.14,0.08,1.64,ZAF,Sub-Saharan Africa,Upper middle income,0
+2016,zambia,106,4.8,0.61,0.64,0.24,0.43,0.18,0.11,2.59,ZMB,Sub-Saharan Africa,Lower middle income,0
+2016,zimbabwe,131,4.19,0.35,0.71,0.16,0.25,0.19,0.09,2.44,ZWE,Sub-Saharan Africa,Lower middle income,0
+2017,afghanistan,141,3.79,0.4,0.58,0.18,0.11,0.31,0.06,2.15,AFG,South Asia,Low income,0
+2017,angola,140,3.8,0.86,1.1,0.05,0.0,0.1,0.07,1.61,AGO,Sub-Saharan Africa,Lower middle income,0
+2017,albania,109,4.64,1.0,0.8,0.73,0.38,0.2,0.04,1.49,ALB,Europe & Central Asia,Upper middle income,0
+2017,united arab emirates,21,6.65,1.63,1.27,0.73,0.61,0.36,0.32,1.73,ARE,Middle East & North Africa,High income,0
+2017,argentina,24,6.6,1.19,1.44,0.7,0.49,0.11,0.06,2.61,ARG,Latin America & Caribbean,Upper middle income,0
+2017,armenia,121,4.38,0.9,1.01,0.64,0.2,0.08,0.03,1.52,ARM,Europe & Central Asia,Upper middle income,0
+2017,australia,10,7.28,1.48,1.51,0.84,0.6,0.48,0.3,2.07,AUS,East Asia & Pacific,High income,1
+2017,austria,13,7.01,1.49,1.46,0.82,0.57,0.32,0.22,2.14,AUT,Europe & Central Asia,High income,1
+2017,azerbaijan,85,5.23,1.15,1.15,0.54,0.4,0.05,0.18,1.76,AZE,Europe & Central Asia,Upper middle income,0
+2017,burundi,154,2.9,0.09,0.63,0.15,0.06,0.2,0.08,1.68,BDI,Sub-Saharan Africa,Low income,0
+2017,belgium,17,6.89,1.46,1.46,0.82,0.54,0.23,0.25,2.12,BEL,Europe & Central Asia,High income,1
+2017,benin,143,3.66,0.43,0.44,0.21,0.43,0.21,0.06,1.89,BEN,Sub-Saharan Africa,Low income,0
+2017,burkina faso,134,4.03,0.35,1.04,0.22,0.32,0.25,0.12,1.73,BFA,Sub-Saharan Africa,Low income,0
+2017,bangladesh,110,4.61,0.59,0.74,0.53,0.48,0.17,0.12,1.98,BGD,South Asia,Lower middle income,0
+2017,bulgaria,105,4.71,1.16,1.43,0.71,0.29,0.11,0.01,1.0,BGR,Europe & Central Asia,Upper middle income,0
+2017,bahrain,41,6.09,1.49,1.32,0.65,0.54,0.17,0.26,1.66,BHR,Middle East & North Africa,High income,0
+2017,bosnia and herzegovina,90,5.18,0.98,1.07,0.71,0.2,0.33,0.0,1.89,BIH,Europe & Central Asia,Upper middle income,0
+2017,belarus,67,5.57,1.16,1.44,0.64,0.3,0.16,0.16,1.72,BLR,Europe & Central Asia,Upper middle income,0
+2017,belize,50,5.96,0.91,1.08,0.45,0.55,0.24,0.1,2.63,BLZ,Latin America & Caribbean,Upper middle income,0
+2017,bolivia,58,5.82,0.83,1.23,0.47,0.56,0.23,0.06,2.44,BOL,Latin America & Caribbean,Lower middle income,0
+2017,brazil,22,6.64,1.11,1.43,0.62,0.44,0.16,0.11,2.77,BRA,Latin America & Caribbean,Upper middle income,0
+2017,bhutan,97,5.01,0.89,1.34,0.5,0.5,0.47,0.17,1.14,BTN,South Asia,Lower middle income,0
+2017,botswana,142,3.77,1.12,1.22,0.34,0.51,0.1,0.1,0.38,BWA,Sub-Saharan Africa,Upper middle income,0
+2017,central african republic,155,2.69,0.0,0.0,0.02,0.27,0.28,0.06,2.07,CAF,Sub-Saharan Africa,Low income,0
+2017,canada,7,7.32,1.48,1.48,0.83,0.61,0.44,0.29,2.19,CAN,North America,High income,1
+2017,switzerland,4,7.49,1.56,1.52,0.86,0.62,0.29,0.37,2.28,CHE,Europe & Central Asia,High income,1
+2017,chile,20,6.65,1.25,1.28,0.82,0.38,0.33,0.08,2.51,CHL,Latin America & Caribbean,High income,1
+2017,china,79,5.27,1.08,1.16,0.74,0.47,0.03,0.02,1.76,CHN,East Asia & Pacific,Upper middle income,0
+2017,côte d'ivoire,128,4.18,0.6,0.9,0.05,0.45,0.2,0.13,1.84,CIV,Sub-Saharan Africa,Lower middle income,0
+2017,cameroon,107,4.7,0.56,0.95,0.13,0.43,0.24,0.05,2.33,CMR,Sub-Saharan Africa,Lower middle income,0
+2017,dem. rep. congo,126,4.28,0.09,1.23,0.19,0.24,0.25,0.06,2.22,COD,Sub-Saharan Africa,Low income,0
+2017,congo,124,4.29,0.81,0.83,0.29,0.44,0.12,0.08,1.72,COG,Sub-Saharan Africa,Lower middle income,0
+2017,colombia,36,6.36,1.07,1.4,0.6,0.48,0.15,0.05,2.62,COL,Latin America & Caribbean,Upper middle income,0
+2017,costa rica,12,7.08,1.11,1.42,0.76,0.58,0.21,0.1,2.9,CRI,Latin America & Caribbean,Upper middle income,0
+2017,cyprus,65,5.62,1.36,1.13,0.84,0.36,0.27,0.04,1.62,CYP,Europe & Central Asia,High income,0
+2017,czech republic,23,6.61,1.35,1.43,0.75,0.49,0.09,0.04,2.45,CZE,Europe & Central Asia,High income,1
+2017,germany,16,6.95,1.49,1.47,0.8,0.56,0.34,0.28,2.02,DEU,Europe & Central Asia,High income,1
+2017,denmark,2,7.52,1.48,1.55,0.79,0.63,0.36,0.4,2.31,DNK,Europe & Central Asia,High income,1
+2017,dominican republic,86,5.23,1.08,1.4,0.57,0.55,0.19,0.11,1.32,DOM,Latin America & Caribbean,Upper middle income,0
+2017,algeria,53,5.87,1.09,1.15,0.62,0.23,0.07,0.15,2.57,DZA,Middle East & North Africa,Upper middle income,0
+2017,ecuador,44,6.01,1.0,1.29,0.69,0.46,0.15,0.14,2.29,ECU,Latin America & Caribbean,Upper middle income,0
+2017,egypt,104,4.74,0.99,1.0,0.52,0.28,0.13,0.11,1.7,EGY,Middle East & North Africa,Lower middle income,0
+2017,spain,34,6.4,1.38,1.53,0.89,0.41,0.19,0.07,1.93,ESP,Europe & Central Asia,High income,1
+2017,estonia,66,5.61,1.32,1.48,0.7,0.48,0.1,0.18,1.36,EST,Europe & Central Asia,High income,1
+2017,ethiopia,119,4.46,0.34,0.86,0.35,0.41,0.31,0.17,2.02,ETH,Sub-Saharan Africa,Low income,0
+2017,finland,5,7.47,1.44,1.54,0.81,0.62,0.25,0.38,2.43,FIN,Europe & Central Asia,High income,1
+2017,france,31,6.44,1.43,1.39,0.84,0.47,0.13,0.17,2.01,FRA,Europe & Central Asia,High income,1
+2017,gabon,118,4.47,1.2,1.16,0.36,0.31,0.04,0.08,1.32,GAB,Sub-Saharan Africa,Upper middle income,0
+2017,united kingdom,19,6.71,1.44,1.5,0.81,0.51,0.49,0.27,1.7,GBR,Europe & Central Asia,High income,1
+2017,georgia,125,4.29,0.95,0.57,0.65,0.31,0.05,0.25,1.5,GEO,Europe & Central Asia,Upper middle income,0
+2017,ghana,131,4.12,0.67,0.87,0.3,0.42,0.26,0.03,1.58,GHA,Sub-Saharan Africa,Lower middle income,0
+2017,guinea,149,3.51,0.24,0.79,0.19,0.35,0.26,0.11,1.55,GIN,Sub-Saharan Africa,Low income,0
+2017,greece,87,5.23,1.29,1.24,0.81,0.1,0.0,0.04,1.75,GRC,Europe & Central Asia,High income,1
+2017,guatemala,29,6.45,0.87,1.26,0.54,0.53,0.28,0.08,2.89,GTM,Latin America & Caribbean,Upper middle income,0
+2017,"hong kong sar, china",71,5.47,1.55,1.26,0.94,0.49,0.37,0.29,0.55,HKG,East Asia & Pacific,High income,0
+2017,honduras,91,5.18,0.73,1.14,0.58,0.35,0.24,0.07,2.07,HND,Latin America & Caribbean,Lower middle income,0
+2017,croatia,77,5.29,1.22,0.97,0.7,0.26,0.25,0.04,1.85,HRV,Europe & Central Asia,High income,0
+2017,haiti,145,3.6,0.37,0.64,0.28,0.03,0.49,0.1,1.7,HTI,Latin America & Caribbean,Low income,0
+2017,hungary,75,5.32,1.29,1.34,0.69,0.18,0.08,0.04,1.72,HUN,Europe & Central Asia,High income,1
+2017,indonesia,81,5.26,1.0,1.27,0.49,0.44,0.61,0.02,1.43,IDN,East Asia & Pacific,Lower middle income,0
+2017,india,122,4.32,0.79,0.75,0.46,0.47,0.23,0.09,1.52,IND,South Asia,Lower middle income,0
+2017,ireland,15,6.98,1.54,1.56,0.81,0.57,0.43,0.3,1.77,IRL,Europe & Central Asia,High income,1
+2017,iran,108,4.69,1.16,0.71,0.64,0.25,0.39,0.05,1.5,IRN,Middle East & North Africa,Upper middle income,0
+2017,iraq,117,4.5,1.1,0.98,0.5,0.29,0.2,0.11,1.32,IRQ,Middle East & North Africa,Upper middle income,0
+2017,iceland,3,7.5,1.48,1.61,0.83,0.63,0.48,0.15,2.32,ISL,Europe & Central Asia,High income,0
+2017,israel,11,7.21,1.38,1.38,0.84,0.41,0.33,0.09,2.8,ISR,Middle East & North Africa,High income,1
+2017,italy,48,5.96,1.4,1.44,0.85,0.26,0.17,0.03,1.81,ITA,Europe & Central Asia,High income,1
+2017,jamaica,76,5.31,0.93,1.37,0.64,0.47,0.23,0.06,1.61,JAM,Latin America & Caribbean,Upper middle income,0
+2017,jordan,74,5.34,0.99,1.24,0.6,0.42,0.17,0.12,1.79,JOR,Middle East & North Africa,Upper middle income,0
+2017,japan,51,5.92,1.42,1.44,0.91,0.51,0.12,0.16,1.36,JPN,East Asia & Pacific,High income,1
+2017,kazakhstan,60,5.82,1.28,1.38,0.61,0.44,0.2,0.12,1.78,KAZ,Europe & Central Asia,Upper middle income,0
+2017,kenya,112,4.55,0.56,1.07,0.31,0.45,0.44,0.06,1.65,KEN,Sub-Saharan Africa,Lower middle income,0
+2017,kyrgyz republic,98,5.0,0.6,1.39,0.55,0.45,0.43,0.04,1.54,KGZ,Europe & Central Asia,Lower middle income,0
+2017,cambodia,129,4.17,0.6,1.01,0.43,0.63,0.39,0.07,1.04,KHM,East Asia & Pacific,Lower middle income,0
+2017,korea,55,5.84,1.4,1.13,0.9,0.26,0.21,0.06,1.88,KOR,East Asia & Pacific,High income,1
+2017,kuwait,39,6.11,1.63,1.26,0.63,0.5,0.23,0.22,1.64,KWT,Middle East & North Africa,High income,0
+2017,lebanon,88,5.22,1.07,1.13,0.74,0.29,0.26,0.04,1.7,LBN,Middle East & North Africa,Upper middle income,0
+2017,liberia,148,3.53,0.12,0.87,0.23,0.33,0.27,0.04,1.67,LBR,Sub-Saharan Africa,Low income,0
+2017,libya,68,5.53,1.1,1.36,0.52,0.47,0.15,0.09,1.84,LBY,Middle East & North Africa,Upper middle income,0
+2017,sri lanka,120,4.44,1.01,1.26,0.63,0.56,0.49,0.07,0.42,LKA,South Asia,Upper middle income,0
+2017,lesotho,139,3.81,0.52,1.19,0.0,0.39,0.16,0.12,1.43,LSO,Sub-Saharan Africa,Lower middle income,0
+2017,lithuania,52,5.9,1.31,1.47,0.63,0.23,0.01,0.01,2.23,LTU,Europe & Central Asia,High income,1
+2017,luxembourg,18,6.86,1.74,1.46,0.85,0.6,0.28,0.32,1.62,LUX,Europe & Central Asia,High income,1
+2017,latvia,54,5.85,1.26,1.4,0.64,0.33,0.15,0.07,1.99,LVA,Europe & Central Asia,High income,1
+2017,morocco,84,5.24,0.88,0.77,0.6,0.41,0.03,0.09,2.46,MAR,Middle East & North Africa,Lower middle income,0
+2017,moldova,56,5.84,0.73,1.25,0.59,0.24,0.21,0.01,2.81,MDA,Europe & Central Asia,Lower middle income,0
+2017,madagascar,144,3.64,0.31,0.91,0.38,0.19,0.21,0.07,1.58,MDG,Sub-Saharan Africa,Low income,0
+2017,mexico,25,6.58,1.15,1.21,0.71,0.41,0.12,0.13,2.84,MEX,Latin America & Caribbean,Upper middle income,1
+2017,north macedonia,92,5.18,1.06,1.21,0.64,0.33,0.25,0.06,1.62,MKD,Europe & Central Asia,Upper middle income,0
+2017,mali,127,4.19,0.48,1.28,0.17,0.31,0.18,0.1,1.67,MLI,Sub-Saharan Africa,Low income,0
+2017,malta,27,6.53,1.34,1.49,0.82,0.59,0.57,0.15,1.56,MLT,Middle East & North Africa,High income,0
+2017,myanmar,114,4.55,0.37,1.12,0.4,0.51,0.84,0.19,1.12,MMR,East Asia & Pacific,Lower middle income,0
+2017,montenegro,83,5.24,1.12,1.24,0.67,0.19,0.2,0.09,1.73,MNE,Europe & Central Asia,Upper middle income,0
+2017,mongolia,100,4.95,1.03,1.49,0.56,0.39,0.34,0.03,1.11,MNG,East Asia & Pacific,Lower middle income,0
+2017,mozambique,113,4.55,0.23,0.87,0.11,0.48,0.32,0.18,2.36,MOZ,Sub-Saharan Africa,Low income,0
+2017,mauritania,123,4.29,0.65,1.27,0.29,0.1,0.2,0.14,1.65,MRT,Sub-Saharan Africa,Lower middle income,0
+2017,mauritius,64,5.63,1.19,1.21,0.64,0.49,0.36,0.04,1.7,MUS,Sub-Saharan Africa,Upper middle income,0
+2017,malawi,136,3.97,0.23,0.51,0.32,0.47,0.29,0.07,2.08,MWI,Sub-Saharan Africa,Low income,0
+2017,malaysia,42,6.08,1.29,1.28,0.62,0.4,0.42,0.07,2.0,MYS,East Asia & Pacific,Upper middle income,0
+2017,namibia,111,4.57,0.96,1.1,0.34,0.52,0.08,0.09,1.48,NAM,Sub-Saharan Africa,Upper middle income,0
+2017,niger,135,4.03,0.16,0.99,0.27,0.36,0.23,0.14,1.87,NER,Sub-Saharan Africa,Low income,0
+2017,nigeria,95,5.07,0.78,1.22,0.06,0.39,0.23,0.03,2.37,NGA,Sub-Saharan Africa,Lower middle income,0
+2017,nicaragua,43,6.07,0.74,1.29,0.65,0.45,0.3,0.13,2.51,NIC,Latin America & Caribbean,Lower middle income,0
+2017,netherlands,6,7.38,1.5,1.43,0.81,0.59,0.47,0.28,2.29,NLD,Europe & Central Asia,High income,1
+2017,norway,1,7.54,1.62,1.53,0.8,0.64,0.36,0.32,2.28,NOR,Europe & Central Asia,High income,1
+2017,nepal,99,4.96,0.48,1.18,0.5,0.44,0.39,0.07,1.89,NPL,South Asia,Low income,0
+2017,new zealand,8,7.31,1.41,1.55,0.82,0.61,0.5,0.38,2.05,NZL,East Asia & Pacific,High income,1
+2017,pakistan,80,5.27,0.73,0.67,0.4,0.24,0.32,0.12,2.79,PAK,South Asia,Lower middle income,0
+2017,panama,30,6.45,1.23,1.37,0.71,0.55,0.21,0.07,2.31,PAN,Latin America & Caribbean,High income,0
+2017,peru,63,5.72,1.04,1.22,0.63,0.45,0.13,0.05,2.21,PER,Latin America & Caribbean,Upper middle income,0
+2017,philippines,72,5.43,0.86,1.25,0.47,0.59,0.19,0.1,1.97,PHL,East Asia & Pacific,Lower middle income,0
+2017,poland,46,5.97,1.29,1.45,0.7,0.52,0.16,0.06,1.8,POL,Europe & Central Asia,High income,1
+2017,portugal,89,5.2,1.32,1.37,0.8,0.5,0.1,0.02,1.11,PRT,Europe & Central Asia,High income,1
+2017,paraguay,70,5.49,0.93,1.51,0.58,0.47,0.22,0.09,1.69,PRY,Latin America & Caribbean,Upper middle income,0
+2017,qatar,35,6.38,1.87,1.27,0.71,0.6,0.33,0.44,1.15,QAT,Middle East & North Africa,High income,0
+2017,romania,57,5.82,1.22,1.15,0.69,0.46,0.13,0.0,2.18,ROU,Europe & Central Asia,Upper middle income,0
+2017,russia,49,5.96,1.28,1.47,0.55,0.37,0.05,0.03,2.21,RUS,Europe & Central Asia,Upper middle income,0
+2017,rwanda,151,3.47,0.37,0.95,0.33,0.58,0.25,0.46,0.54,RWA,Sub-Saharan Africa,Low income,0
+2017,saudi arabia,37,6.34,1.53,1.29,0.59,0.45,0.15,0.27,2.07,SAU,Middle East & North Africa,High income,0
+2017,sudan,130,4.14,0.66,1.21,0.29,0.01,0.18,0.09,1.69,SDN,Sub-Saharan Africa,Lower middle income,0
+2017,senegal,115,4.53,0.48,1.18,0.41,0.38,0.18,0.12,1.79,SEN,Sub-Saharan Africa,Lower middle income,0
+2017,singapore,26,6.57,1.69,1.35,0.95,0.55,0.35,0.46,1.22,SGP,East Asia & Pacific,High income,0
+2017,sierra leone,106,4.71,0.37,0.98,0.01,0.32,0.29,0.07,2.67,SLE,Sub-Saharan Africa,Low income,0
+2017,el salvador,45,6.0,0.91,1.18,0.6,0.43,0.08,0.09,2.71,SLV,Latin America & Caribbean,Lower middle income,0
+2017,somalia,93,5.15,0.02,0.72,0.11,0.6,0.29,0.28,3.12,SOM,Sub-Saharan Africa,Low income,0
+2017,serbia,73,5.39,1.07,1.26,0.65,0.21,0.22,0.04,1.95,SRB,Europe & Central Asia,Upper middle income,0
+2017,south sudan,147,3.59,0.4,0.6,0.16,0.15,0.29,0.12,1.88,SSD,Sub-Saharan Africa,Low income,0
+2017,slovak republic,40,6.1,1.33,1.51,0.71,0.3,0.14,0.02,2.1,SVK,Europe & Central Asia,High income,1
+2017,slovenia,62,5.76,1.34,1.45,0.79,0.57,0.24,0.05,1.31,SVN,Europe & Central Asia,High income,1
+2017,sweden,9,7.28,1.49,1.48,0.83,0.61,0.39,0.38,2.1,SWE,Europe & Central Asia,High income,1
+2017,syrian arab republic,152,3.46,0.78,0.4,0.5,0.08,0.49,0.15,1.06,SYR,Middle East & North Africa,Low income,0
+2017,chad,137,3.94,0.44,0.95,0.04,0.16,0.22,0.05,2.07,TCD,Sub-Saharan Africa,Low income,0
+2017,togo,150,3.49,0.31,0.43,0.25,0.38,0.2,0.1,1.84,TGO,Sub-Saharan Africa,Low income,0
+2017,thailand,32,6.42,1.13,1.43,0.65,0.58,0.57,0.03,2.04,THA,East Asia & Pacific,Upper middle income,0
+2017,tajikistan,96,5.04,0.52,1.27,0.53,0.47,0.25,0.15,1.85,TJK,Europe & Central Asia,Low income,0
+2017,turkmenistan,59,5.82,1.13,1.49,0.44,0.42,0.25,0.26,1.83,TKM,Europe & Central Asia,Upper middle income,0
+2017,trinidad and tobago,38,6.17,1.36,1.38,0.52,0.52,0.33,0.01,2.05,TTO,Latin America & Caribbean,High income,0
+2017,tunisia,102,4.8,1.01,0.87,0.61,0.29,0.05,0.09,1.89,TUN,Middle East & North Africa,Lower middle income,0
+2017,turkey,69,5.5,1.2,1.34,0.64,0.3,0.05,0.1,1.88,TUR,Europe & Central Asia,Upper middle income,1
+2017,tanzania,153,3.35,0.51,1.04,0.36,0.39,0.35,0.07,0.62,TZA,Sub-Saharan Africa,Low income,0
+2017,uganda,133,4.08,0.38,1.13,0.22,0.44,0.33,0.06,1.53,UGA,Sub-Saharan Africa,Low income,0
+2017,ukraine,132,4.1,0.89,1.39,0.58,0.12,0.27,0.02,0.81,UKR,Europe & Central Asia,Lower middle income,0
+2017,uruguay,28,6.45,1.22,1.41,0.72,0.58,0.18,0.18,2.17,URY,Latin America & Caribbean,High income,0
+2017,united states,14,6.99,1.55,1.42,0.77,0.51,0.39,0.14,2.22,USA,North America,High income,1
+2017,uzbekistan,47,5.97,0.79,1.55,0.5,0.66,0.42,0.25,1.82,UZB,Europe & Central Asia,Lower middle income,0
+2017,venezuela,82,5.25,1.13,1.43,0.62,0.15,0.07,0.06,1.79,VEN,Latin America & Caribbean,Upper middle income,0
+2017,vietnam,94,5.07,0.79,1.28,0.65,0.57,0.23,0.09,1.46,VNM,East Asia & Pacific,Lower middle income,0
+2017,kosovo,78,5.28,0.95,1.14,0.54,0.26,0.32,0.06,2.01,XKX,Europe & Central Asia,Upper middle income,0
+2017,yemen,146,3.59,0.59,0.94,0.31,0.25,0.1,0.06,1.35,YEM,Middle East & North Africa,Low income,0
+2017,south africa,101,4.83,1.05,1.38,0.19,0.48,0.14,0.07,1.51,ZAF,Sub-Saharan Africa,Upper middle income,0
+2017,zambia,116,4.51,0.64,1.0,0.26,0.46,0.25,0.08,1.83,ZMB,Sub-Saharan Africa,Lower middle income,0
+2017,zimbabwe,138,3.88,0.38,1.08,0.2,0.34,0.19,0.1,1.6,ZWE,Sub-Saharan Africa,Lower middle income,0
+2018,afghanistan,145,3.63,0.33,0.54,0.26,0.09,0.19,0.04,2.2,AFG,South Asia,Low income,0
+2018,angola,142,3.8,0.73,1.13,0.27,0.0,0.08,0.06,1.53,AGO,Sub-Saharan Africa,Lower middle income,0
+2018,albania,112,4.59,0.92,0.82,0.79,0.42,0.15,0.03,1.46,ALB,Europe & Central Asia,Upper middle income,0
+2018,united arab emirates,20,6.77,2.1,0.78,0.67,0.28,0.19,,,ARE,Middle East & North Africa,High income,0
+2018,argentina,29,6.39,1.07,1.47,0.74,0.57,0.06,0.05,2.42,ARG,Latin America & Caribbean,Upper middle income,0
+2018,armenia,129,4.32,0.82,0.99,0.67,0.26,0.08,0.03,1.48,ARM,Europe & Central Asia,Upper middle income,0
+2018,australia,10,7.27,1.34,1.57,0.91,0.65,0.36,0.3,2.14,AUS,East Asia & Pacific,High income,1
+2018,austria,12,7.14,1.34,1.5,0.89,0.62,0.24,0.22,2.32,AUT,Europe & Central Asia,High income,1
+2018,azerbaijan,87,5.2,1.02,1.16,0.6,0.43,0.03,0.18,1.78,AZE,Europe & Central Asia,Upper middle income,0
+2018,burundi,156,2.91,0.09,0.63,0.15,0.07,0.15,0.08,1.75,BDI,Sub-Saharan Africa,Low income,0
+2018,belgium,16,6.93,1.32,1.48,0.89,0.58,0.19,0.24,2.22,BEL,Europe & Central Asia,High income,1
+2018,benin,136,4.14,0.38,0.37,0.24,0.44,0.16,0.07,2.48,BEN,Sub-Saharan Africa,Low income,0
+2018,burkina faso,121,4.42,0.31,1.1,0.25,0.31,0.18,0.13,2.14,BFA,Sub-Saharan Africa,Low income,0
+2018,bangladesh,115,4.5,0.53,0.85,0.58,0.58,0.15,0.14,1.66,BGD,South Asia,Lower middle income,0
+2018,bulgaria,100,4.93,1.05,1.52,0.71,0.36,0.06,0.01,1.22,BGR,Europe & Central Asia,Upper middle income,0
+2018,bahrain,43,6.11,1.34,1.37,0.7,0.59,0.24,0.12,1.74,BHR,Middle East & North Africa,High income,0
+2018,bosnia and herzegovina,93,5.13,0.92,1.08,0.76,0.28,0.22,0.0,1.88,BIH,Europe & Central Asia,Upper middle income,0
+2018,belarus,73,5.48,1.04,1.5,0.7,0.31,0.1,0.15,1.68,BLR,Europe & Central Asia,Upper middle income,0
+2018,belize,49,5.96,0.81,1.1,0.47,0.59,0.18,0.09,2.71,BLZ,Latin America & Caribbean,Upper middle income,0
+2018,bolivia,62,5.75,0.75,1.22,0.51,0.61,0.14,0.05,2.47,BOL,Latin America & Caribbean,Lower middle income,0
+2018,brazil,28,6.42,0.99,1.47,0.68,0.49,0.11,0.09,2.59,BRA,Latin America & Caribbean,Upper middle income,0
+2018,bhutan,97,5.08,0.8,1.34,0.53,0.54,0.36,0.17,1.35,BTN,South Asia,Lower middle income,0
+2018,botswana,146,3.59,1.02,1.17,0.42,0.56,0.04,0.09,0.29,BWA,Sub-Saharan Africa,Upper middle income,0
+2018,central african republic,155,3.08,0.02,0.0,0.01,0.31,0.22,0.04,2.49,CAF,Sub-Saharan Africa,Low income,0
+2018,canada,7,7.33,1.33,1.53,0.9,0.65,0.32,0.29,2.31,CAN,North America,High income,1
+2018,switzerland,5,7.49,1.42,1.55,0.93,0.66,0.26,0.36,2.32,CHE,Europe & Central Asia,High income,1
+2018,chile,25,6.48,1.13,1.33,0.81,0.43,0.2,0.06,2.52,CHL,Latin America & Caribbean,High income,1
+2018,china,86,5.25,0.99,1.14,0.8,0.6,0.03,0.1,1.59,CHN,East Asia & Pacific,Upper middle income,0
+2018,côte d'ivoire,107,4.67,0.54,0.87,0.08,0.47,0.15,0.1,2.46,CIV,Sub-Saharan Africa,Lower middle income,0
+2018,cameroon,99,4.98,0.54,0.89,0.18,0.45,0.18,0.04,2.69,CMR,Sub-Saharan Africa,Lower middle income,0
+2018,dem. rep. congo,132,4.25,0.07,1.14,0.2,0.31,0.2,0.05,2.28,COD,Sub-Saharan Africa,Low income,0
+2018,congo,114,4.56,0.68,0.81,0.34,0.51,0.09,0.08,2.04,COG,Sub-Saharan Africa,Lower middle income,0
+2018,colombia,37,6.26,0.96,1.44,0.64,0.53,0.1,0.04,2.56,COL,Latin America & Caribbean,Upper middle income,0
+2018,costa rica,13,7.07,1.01,1.46,0.82,0.63,0.14,0.1,2.91,CRI,Latin America & Caribbean,Upper middle income,0
+2018,cyprus,61,5.76,1.23,1.19,0.91,0.42,0.2,0.04,1.77,CYP,Europe & Central Asia,High income,0
+2018,czech republic,21,6.71,1.23,1.49,0.85,0.54,0.06,0.03,2.49,CZE,Europe & Central Asia,High income,1
+2018,germany,15,6.97,1.34,1.47,0.86,0.59,0.27,0.28,2.15,DEU,Europe & Central Asia,High income,1
+2018,denmark,3,7.56,1.35,1.59,0.87,0.68,0.28,0.41,2.37,DNK,Europe & Central Asia,High income,1
+2018,dominican republic,83,5.3,0.98,1.44,0.61,0.58,0.12,0.11,1.46,DOM,Latin America & Caribbean,Upper middle income,0
+2018,algeria,84,5.3,0.98,1.15,0.69,0.08,0.06,0.14,2.21,DZA,Middle East & North Africa,Upper middle income,0
+2018,ecuador,48,5.97,0.89,1.33,0.74,0.56,0.11,0.12,2.23,ECU,Latin America & Caribbean,Upper middle income,0
+2018,egypt,122,4.42,0.89,1.03,0.55,0.31,0.09,0.11,1.45,EGY,Middle East & North Africa,Lower middle income,0
+2018,spain,36,6.31,1.25,1.54,0.97,0.45,0.14,0.07,1.89,ESP,Europe & Central Asia,High income,1
+2018,estonia,63,5.74,1.2,1.53,0.74,0.55,0.09,0.17,1.46,EST,Europe & Central Asia,High income,1
+2018,ethiopia,127,4.35,0.31,0.95,0.39,0.45,0.22,0.15,1.88,ETH,Sub-Saharan Africa,Low income,0
+2018,finland,1,7.63,1.31,1.59,0.87,0.68,0.2,0.39,2.59,FIN,Europe & Central Asia,High income,1
+2018,france,23,6.49,1.29,1.47,0.91,0.52,0.1,0.18,2.03,FRA,Europe & Central Asia,High income,1
+2018,gabon,103,4.76,1.04,1.16,0.4,0.36,0.03,0.05,1.71,GAB,Sub-Saharan Africa,Upper middle income,0
+2018,united kingdom,11,7.19,1.24,1.43,0.89,0.46,0.26,0.08,2.82,GBR,Europe & Central Asia,High income,1
+2018,georgia,128,4.34,0.85,0.59,0.64,0.38,0.04,0.22,1.62,GEO,Europe & Central Asia,Upper middle income,0
+2018,ghana,108,4.66,0.59,0.9,0.34,0.5,0.21,0.03,2.09,GHA,Sub-Saharan Africa,Lower middle income,0
+2018,guinea,140,3.96,0.34,0.79,0.21,0.39,0.19,0.09,1.94,GIN,Sub-Saharan Africa,Low income,0
+2018,greece,79,5.36,1.15,1.2,0.88,0.13,0.0,0.04,1.95,GRC,Europe & Central Asia,High income,1
+2018,guatemala,30,6.38,0.78,1.27,0.61,0.6,0.18,0.07,2.87,GTM,Latin America & Caribbean,Upper middle income,0
+2018,"hong kong sar, china",76,5.43,1.41,1.29,1.03,0.52,0.25,0.29,0.64,HKG,East Asia & Pacific,High income,0
+2018,honduras,72,5.5,0.62,1.21,0.62,0.46,0.2,0.07,2.33,HND,Latin America & Caribbean,Lower middle income,0
+2018,croatia,82,5.32,1.12,1.16,0.74,0.38,0.12,0.04,1.77,HRV,Europe & Central Asia,High income,0
+2018,haiti,148,3.58,0.32,0.71,0.29,0.03,0.39,0.1,1.74,HTI,Latin America & Caribbean,Low income,0
+2018,hungary,69,5.62,1.17,1.4,0.73,0.26,0.06,0.02,1.97,HUN,Europe & Central Asia,High income,1
+2018,indonesia,96,5.09,0.9,1.22,0.52,0.54,0.48,0.02,1.42,IDN,East Asia & Pacific,Lower middle income,0
+2018,india,133,4.19,0.72,0.75,0.49,0.54,0.17,0.09,1.43,IND,South Asia,Lower middle income,0
+2018,ireland,14,6.98,1.45,1.58,0.88,0.61,0.31,0.31,1.84,IRL,Europe & Central Asia,High income,1
+2018,iran,106,4.71,1.06,0.77,0.69,0.46,0.28,0.13,1.32,IRN,Middle East & North Africa,Upper middle income,0
+2018,iraq,117,4.46,1.01,0.97,0.54,0.3,0.15,0.1,1.39,IRQ,Middle East & North Africa,Upper middle income,0
+2018,iceland,4,7.5,1.34,1.64,0.91,0.68,0.35,0.14,2.43,ISL,Europe & Central Asia,High income,0
+2018,israel,19,6.81,1.3,1.56,0.88,0.53,0.35,0.27,1.91,ISR,Middle East & North Africa,High income,1
+2018,italy,47,6.0,1.26,1.5,0.95,0.28,0.14,0.03,1.84,ITA,Europe & Central Asia,High income,1
+2018,jamaica,56,5.89,0.82,1.49,0.69,0.58,0.1,0.03,2.18,JAM,Latin America & Caribbean,Upper middle income,0
+2018,jordan,90,5.16,0.82,1.27,0.65,0.47,0.13,0.13,1.7,JOR,Middle East & North Africa,Upper middle income,0
+2018,japan,54,5.92,1.29,1.46,0.99,0.55,0.08,0.15,1.39,JPN,East Asia & Pacific,High income,1
+2018,kazakhstan,60,5.79,1.14,1.52,0.63,0.45,0.15,0.12,1.78,KAZ,Europe & Central Asia,Upper middle income,0
+2018,kenya,124,4.41,0.49,1.05,0.45,0.5,0.35,0.06,1.5,KEN,Sub-Saharan Africa,Lower middle income,0
+2018,kyrgyz republic,92,5.13,0.53,1.42,0.59,0.54,0.28,0.04,1.74,KGZ,Europe & Central Asia,Lower middle income,0
+2018,cambodia,120,4.43,0.55,1.09,0.46,0.7,0.26,0.07,1.32,KHM,East Asia & Pacific,Lower middle income,0
+2018,korea,57,5.88,1.27,1.2,0.96,0.24,0.18,0.05,1.98,KOR,East Asia & Pacific,High income,1
+2018,kuwait,45,6.08,1.47,1.3,0.68,0.55,0.17,0.11,1.81,KWT,Middle East & North Africa,High income,0
+2018,lao pdr,110,4.62,0.72,1.03,0.44,0.63,0.23,0.17,1.4,LAO,East Asia & Pacific,Lower middle income,0
+2018,lebanon,80,5.36,0.97,1.18,0.79,0.5,0.21,0.14,1.58,LBN,Middle East & North Africa,Upper middle income,0
+2018,liberia,149,3.5,0.08,0.86,0.27,0.42,0.21,0.03,1.64,LBR,Sub-Saharan Africa,Low income,0
+2018,libya,70,5.57,0.99,1.35,0.55,0.5,0.12,0.15,1.92,LBY,Middle East & North Africa,Upper middle income,0
+2018,sri lanka,116,4.47,0.92,1.31,0.67,0.59,0.31,0.05,0.63,LKA,South Asia,Upper middle income,0
+2018,lesotho,141,3.81,0.47,1.22,0.08,0.42,0.12,0.11,1.39,LSO,Sub-Saharan Africa,Lower middle income,0
+2018,lithuania,50,5.95,1.2,1.53,0.72,0.35,0.03,0.01,2.13,LTU,Europe & Central Asia,High income,1
+2018,luxembourg,17,6.91,1.58,1.52,0.9,0.63,0.2,0.32,1.77,LUX,Europe & Central Asia,High income,1
+2018,latvia,53,5.93,1.15,1.45,0.67,0.36,0.09,0.07,2.14,LVA,Europe & Central Asia,High income,1
+2018,morocco,85,5.25,0.78,0.8,0.67,0.46,0.03,0.07,2.45,MAR,Middle East & North Africa,Lower middle income,0
+2018,moldova,67,5.64,0.66,1.3,0.62,0.23,0.17,0.0,2.66,MDA,Europe & Central Asia,Lower middle income,0
+2018,madagascar,143,3.77,0.26,0.91,0.4,0.22,0.16,0.05,1.78,MDG,Sub-Saharan Africa,Low income,0
+2018,mexico,24,6.49,1.04,1.25,0.76,0.48,0.07,0.1,2.79,MEX,Latin America & Caribbean,Upper middle income,1
+2018,north macedonia,89,5.19,0.96,1.24,0.69,0.39,0.17,0.05,1.68,MKD,Europe & Central Asia,Upper middle income,0
+2018,mali,118,4.45,0.37,1.23,0.15,0.37,0.14,0.06,2.13,MLI,Sub-Saharan Africa,Low income,0
+2018,malta,22,6.63,1.27,1.53,0.88,0.65,0.38,0.14,1.79,MLT,Middle East & North Africa,High income,0
+2018,myanmar,130,4.31,0.68,1.17,0.43,0.58,0.6,0.18,0.67,MMR,East Asia & Pacific,Lower middle income,0
+2018,montenegro,81,5.35,1.02,1.28,0.73,0.26,0.11,0.08,1.87,MNE,Europe & Central Asia,Upper middle income,0
+2018,mongolia,94,5.13,0.91,1.52,0.58,0.4,0.25,0.03,1.44,MNG,East Asia & Pacific,Lower middle income,0
+2018,mozambique,123,4.42,0.2,0.9,0.17,0.53,0.21,0.16,2.25,MOZ,Sub-Saharan Africa,Low income,0
+2018,mauritania,126,4.36,0.56,1.25,0.29,0.13,0.13,0.09,1.91,MRT,Sub-Saharan Africa,Lower middle income,0
+2018,mauritius,55,5.89,1.09,1.39,0.68,0.58,0.25,0.05,1.85,MUS,Sub-Saharan Africa,Upper middle income,0
+2018,malawi,147,3.59,0.19,0.54,0.31,0.53,0.21,0.08,1.73,MWI,Sub-Saharan Africa,Low income,0
+2018,malaysia,35,6.32,1.16,1.26,0.67,0.36,0.31,0.06,2.51,MYS,East Asia & Pacific,Upper middle income,0
+2018,namibia,119,4.44,0.87,1.28,0.37,0.52,0.05,0.06,1.29,NAM,Sub-Saharan Africa,Upper middle income,0
+2018,niger,134,4.17,0.13,0.87,0.22,0.39,0.18,0.1,2.28,NER,Sub-Saharan Africa,Low income,0
+2018,nigeria,91,5.16,0.69,1.17,0.05,0.46,0.2,0.03,2.55,NGA,Sub-Saharan Africa,Lower middle income,0
+2018,nicaragua,41,6.14,0.67,1.32,0.7,0.53,0.21,0.13,2.59,NIC,Latin America & Caribbean,Lower middle income,0
+2018,netherlands,6,7.44,1.36,1.49,0.88,0.64,0.33,0.3,2.45,NLD,Europe & Central Asia,High income,1
+2018,norway,2,7.59,1.46,1.58,0.86,0.69,0.29,0.34,2.38,NOR,Europe & Central Asia,High income,1
+2018,nepal,101,4.88,0.43,1.23,0.54,0.53,0.3,0.08,1.78,NPL,South Asia,Low income,0
+2018,new zealand,8,7.32,1.27,1.6,0.88,0.67,0.37,0.39,2.16,NZL,East Asia & Pacific,High income,1
+2018,pakistan,75,5.47,0.65,0.81,0.42,0.33,0.22,0.11,2.92,PAK,South Asia,Lower middle income,0
+2018,panama,27,6.43,1.11,1.44,0.76,0.6,0.13,0.06,2.34,PAN,Latin America & Caribbean,High income,0
+2018,peru,65,5.66,0.93,1.25,0.67,0.53,0.09,0.03,2.15,PER,Latin America & Caribbean,Upper middle income,0
+2018,philippines,71,5.52,0.78,1.31,0.51,0.64,0.12,0.11,2.06,PHL,East Asia & Pacific,Lower middle income,0
+2018,poland,42,6.12,1.18,1.45,0.78,0.55,0.11,0.06,2.0,POL,Europe & Central Asia,High income,1
+2018,portugal,77,5.41,1.19,1.43,0.88,0.56,0.06,0.02,1.28,PRT,Europe & Central Asia,High income,1
+2018,paraguay,64,5.68,0.84,1.52,0.62,0.54,0.16,0.07,1.93,PRY,Latin America & Caribbean,Upper middle income,0
+2018,qatar,32,6.37,1.65,1.3,0.75,0.65,0.26,0.17,1.59,QAT,Middle East & North Africa,High income,0
+2018,romania,52,5.95,1.12,1.22,0.73,0.53,0.09,0.0,2.27,ROU,Europe & Central Asia,Upper middle income,0
+2018,russia,59,5.81,1.15,1.48,0.6,0.4,0.07,0.03,2.09,RUS,Europe & Central Asia,Upper middle income,0
+2018,rwanda,151,3.41,0.33,0.9,0.4,0.64,0.2,0.44,0.5,RWA,Sub-Saharan Africa,Low income,0
+2018,saudi arabia,33,6.37,1.38,1.33,0.63,0.51,0.1,0.13,2.29,SAU,Middle East & North Africa,High income,0
+2018,sudan,137,4.14,0.61,1.24,0.31,0.02,0.13,0.08,1.75,SDN,Sub-Saharan Africa,Lower middle income,0
+2018,senegal,109,4.63,0.43,1.12,0.43,0.41,0.14,0.08,2.03,SEN,Sub-Saharan Africa,Lower middle income,0
+2018,singapore,34,6.34,1.53,1.45,1.01,0.63,0.26,0.46,1.01,SGP,East Asia & Pacific,High income,0
+2018,sierra leone,113,4.57,0.26,0.81,0.0,0.36,0.24,0.05,2.86,SLE,Sub-Saharan Africa,Low income,0
+2018,el salvador,40,6.17,0.81,1.23,0.64,0.46,0.07,0.08,2.88,SLV,Latin America & Caribbean,Lower middle income,0
+2018,somalia,98,4.98,0.0,0.71,0.12,0.67,0.24,0.28,2.96,SOM,Sub-Saharan Africa,Low income,0
+2018,serbia,78,5.4,0.98,1.37,0.69,0.29,0.13,0.04,1.9,SRB,Europe & Central Asia,Upper middle income,0
+2018,south sudan,154,3.25,0.34,0.61,0.18,0.11,0.22,0.11,1.69,SSD,Sub-Saharan Africa,Low income,0
+2018,slovak republic,39,6.17,1.21,1.54,0.78,0.35,0.12,0.01,2.16,SVK,Europe & Central Asia,High income,1
+2018,slovenia,51,5.95,1.22,1.51,0.86,0.63,0.16,0.05,1.52,SVN,Europe & Central Asia,High income,1
+2018,sweden,9,7.31,1.36,1.5,0.91,0.66,0.29,0.38,2.22,SWE,Europe & Central Asia,High income,1
+2018,syrian arab republic,150,3.46,0.69,0.38,0.54,0.09,0.38,0.14,1.24,SYR,Middle East & North Africa,Low income,0
+2018,chad,131,4.3,0.36,0.91,0.05,0.19,0.18,0.06,2.55,TCD,Sub-Saharan Africa,Low income,0
+2018,togo,139,4.0,0.26,0.47,0.25,0.43,0.16,0.1,2.32,TGO,Sub-Saharan Africa,Low income,0
+2018,thailand,46,6.07,1.02,1.42,0.71,0.64,0.36,0.03,1.9,THA,East Asia & Pacific,Upper middle income,0
+2018,tajikistan,88,5.2,0.47,1.17,0.6,0.29,0.19,0.03,2.45,TJK,Europe & Central Asia,Low income,0
+2018,turkmenistan,68,5.64,1.02,1.53,0.52,0.42,0.2,0.04,1.92,TKM,Europe & Central Asia,Upper middle income,0
+2018,tunisia,111,4.59,0.9,0.91,0.69,0.27,0.04,0.06,1.72,TUN,Middle East & North Africa,Lower middle income,0
+2018,turkey,74,5.48,1.15,1.38,0.69,0.32,0.11,0.11,1.73,TUR,Europe & Central Asia,Upper middle income,1
+2018,tanzania,153,3.3,0.46,0.99,0.38,0.48,0.27,0.1,0.63,TZA,Sub-Saharan Africa,Low income,0
+2018,uganda,135,4.16,0.32,1.09,0.24,0.45,0.26,0.06,1.74,UGA,Sub-Saharan Africa,Low income,0
+2018,ukraine,138,4.1,0.79,1.41,0.61,0.16,0.19,0.01,0.93,UKR,Europe & Central Asia,Lower middle income,0
+2018,uruguay,31,6.38,1.09,1.46,0.77,0.63,0.13,0.16,2.15,URY,Latin America & Caribbean,High income,0
+2018,united states,18,6.89,1.4,1.47,0.82,0.55,0.29,0.13,2.23,USA,North America,High income,1
+2018,uzbekistan,44,6.1,0.72,1.58,0.61,0.72,0.33,0.26,1.88,UZB,Europe & Central Asia,Lower middle income,0
+2018,venezuela,102,4.81,1.0,1.47,0.66,0.13,0.06,0.05,1.44,VEN,Latin America & Caribbean,Upper middle income,0
+2018,vietnam,95,5.1,0.72,1.37,0.7,0.62,0.18,0.08,1.45,VNM,East Asia & Pacific,Lower middle income,0
+2018,kosovo,66,5.66,0.86,1.23,0.58,0.45,0.27,0.02,2.25,XKX,Europe & Central Asia,Upper middle income,0
+2018,yemen,152,3.36,0.44,1.07,0.34,0.24,0.08,0.06,1.11,YEM,Middle East & North Africa,Low income,0
+2018,south africa,105,4.72,0.94,1.41,0.33,0.52,0.1,0.06,1.37,ZAF,Sub-Saharan Africa,Upper middle income,0
+2018,zambia,125,4.38,0.56,1.05,0.3,0.5,0.22,0.08,1.67,ZMB,Sub-Saharan Africa,Lower middle income,0
+2018,zimbabwe,144,3.69,0.36,1.09,0.25,0.41,0.13,0.1,1.36,ZWE,Sub-Saharan Africa,Lower middle income,0
+2019,afghanistan,154,3.2,0.35,0.52,0.36,0.0,0.16,0.03,1.79,AFG,South Asia,Low income,0
+2019,albania,107,4.72,0.95,0.85,0.87,0.38,0.18,0.03,1.46,ALB,Europe & Central Asia,Upper middle income,0
+2019,united arab emirates,21,6.83,1.5,1.31,0.83,0.6,0.26,0.18,2.15,ARE,Middle East & North Africa,High income,0
+2019,argentina,47,6.09,1.09,1.43,0.88,0.47,0.07,0.05,2.09,ARG,Latin America & Caribbean,Upper middle income,0
+2019,armenia,116,4.56,0.85,1.06,0.82,0.28,0.1,0.06,1.4,ARM,Europe & Central Asia,Upper middle income,0
+2019,australia,11,7.23,1.37,1.55,1.04,0.56,0.33,0.29,2.09,AUS,East Asia & Pacific,High income,1
+2019,austria,10,7.25,1.38,1.48,1.02,0.53,0.24,0.23,2.38,AUT,Europe & Central Asia,High income,1
+2019,azerbaijan,90,5.21,1.04,1.15,0.77,0.35,0.04,0.18,1.68,AZE,Europe & Central Asia,Upper middle income,0
+2019,burundi,145,3.78,0.05,0.45,0.38,0.22,0.18,0.18,2.33,BDI,Sub-Saharan Africa,Low income,0
+2019,belgium,18,6.92,1.36,1.5,0.99,0.47,0.16,0.21,2.23,BEL,Europe & Central Asia,High income,1
+2019,benin,102,4.88,0.39,0.44,0.4,0.35,0.18,0.08,3.05,BEN,Sub-Saharan Africa,Low income,0
+2019,burkina faso,115,4.59,0.33,1.06,0.38,0.26,0.18,0.11,2.28,BFA,Sub-Saharan Africa,Low income,0
+2019,bangladesh,125,4.46,0.56,0.93,0.72,0.53,0.17,0.14,1.41,BGD,South Asia,Lower middle income,0
+2019,bulgaria,97,5.01,1.09,1.51,0.82,0.31,0.08,0.0,1.2,BGR,Europe & Central Asia,Upper middle income,0
+2019,bahrain,37,6.2,1.36,1.37,0.87,0.54,0.26,0.11,1.7,BHR,Middle East & North Africa,High income,0
+2019,bosnia and herzegovina,78,5.39,0.95,1.21,0.85,0.21,0.26,0.01,1.9,BIH,Europe & Central Asia,Upper middle income,0
+2019,belarus,81,5.32,1.07,1.47,0.79,0.24,0.09,0.14,1.53,BLR,Europe & Central Asia,Upper middle income,0
+2019,bolivia,61,5.78,0.78,1.21,0.71,0.51,0.14,0.06,2.38,BOL,Latin America & Caribbean,Lower middle income,0
+2019,brazil,32,6.3,1.0,1.44,0.8,0.39,0.1,0.09,2.48,BRA,Latin America & Caribbean,Upper middle income,0
+2019,bhutan,95,5.08,0.81,1.32,0.6,0.46,0.37,0.17,1.35,BTN,South Asia,Lower middle income,0
+2019,botswana,148,3.49,1.04,1.15,0.54,0.46,0.03,0.1,0.18,BWA,Sub-Saharan Africa,Upper middle income,0
+2019,central african republic,155,3.08,0.03,0.0,0.11,0.23,0.24,0.04,2.46,CAF,Sub-Saharan Africa,Low income,0
+2019,canada,9,7.28,1.37,1.51,1.04,0.58,0.29,0.31,2.19,CAN,North America,High income,1
+2019,switzerland,6,7.48,1.45,1.53,1.05,0.57,0.26,0.34,2.27,CHE,Europe & Central Asia,High income,1
+2019,chile,26,6.44,1.16,1.37,0.92,0.36,0.19,0.06,2.4,CHL,Latin America & Caribbean,High income,1
+2019,china,93,5.19,1.03,1.13,0.89,0.52,0.06,0.1,1.47,CHN,East Asia & Pacific,Upper middle income,0
+2019,côte d'ivoire,99,4.94,0.57,0.81,0.23,0.35,0.15,0.09,2.74,CIV,Sub-Saharan Africa,Lower middle income,0
+2019,cameroon,96,5.04,0.55,0.91,0.33,0.38,0.19,0.04,2.65,CMR,Sub-Saharan Africa,Lower middle income,0
+2019,dem. rep. congo,127,4.42,0.09,1.13,0.36,0.27,0.21,0.05,2.31,COD,Sub-Saharan Africa,Low income,0
+2019,congo,103,4.81,0.67,0.8,0.51,0.37,0.11,0.09,2.26,COG,Sub-Saharan Africa,Lower middle income,0
+2019,colombia,43,6.13,0.99,1.41,0.84,0.47,0.1,0.03,2.29,COL,Latin America & Caribbean,Upper middle income,0
+2019,comoros,142,3.97,0.27,0.76,0.51,0.14,0.28,0.08,1.94,COM,Sub-Saharan Africa,Lower middle income,0
+2019,costa rica,12,7.17,1.03,1.44,0.96,0.56,0.14,0.09,2.93,CRI,Latin America & Caribbean,Upper middle income,0
+2019,cyprus,49,6.05,1.26,1.22,1.04,0.41,0.19,0.04,1.88,CYP,Europe & Central Asia,High income,0
+2019,czech republic,20,6.85,1.27,1.49,0.92,0.46,0.05,0.04,2.64,CZE,Europe & Central Asia,High income,1
+2019,germany,17,6.99,1.37,1.45,0.99,0.5,0.26,0.27,2.15,DEU,Europe & Central Asia,High income,1
+2019,denmark,2,7.6,1.38,1.57,1.0,0.59,0.25,0.41,2.39,DNK,Europe & Central Asia,High income,1
+2019,dominican republic,77,5.43,1.02,1.4,0.78,0.5,0.11,0.1,1.52,DOM,Latin America & Caribbean,Upper middle income,0
+2019,algeria,88,5.21,1.0,1.16,0.79,0.09,0.07,0.11,1.99,DZA,Middle East & North Africa,Upper middle income,0
+2019,ecuador,50,6.03,0.91,1.31,0.87,0.5,0.13,0.09,2.23,ECU,Latin America & Caribbean,Upper middle income,0
+2019,egypt,137,4.17,0.91,1.04,0.64,0.24,0.08,0.07,1.19,EGY,Middle East & North Africa,Lower middle income,0
+2019,spain,30,6.35,1.29,1.48,1.06,0.36,0.15,0.08,1.93,ESP,Europe & Central Asia,High income,1
+2019,estonia,55,5.89,1.24,1.53,0.87,0.5,0.1,0.16,1.5,EST,Europe & Central Asia,High income,1
+2019,ethiopia,134,4.29,0.34,1.03,0.53,0.34,0.21,0.1,1.73,ETH,Sub-Saharan Africa,Low income,0
+2019,finland,1,7.77,1.34,1.59,0.99,0.6,0.15,0.39,2.71,FIN,Europe & Central Asia,High income,1
+2019,france,24,6.59,1.32,1.47,1.05,0.44,0.11,0.18,2.02,FRA,Europe & Central Asia,High income,1
+2019,gabon,104,4.8,1.06,1.18,0.57,0.3,0.04,0.06,1.6,GAB,Sub-Saharan Africa,Upper middle income,0
+2019,united kingdom,15,7.05,1.33,1.54,1.0,0.45,0.35,0.28,2.11,GBR,Europe & Central Asia,High income,1
+2019,georgia,119,4.52,0.89,0.67,0.75,0.35,0.04,0.16,1.66,GEO,Europe & Central Asia,Upper middle income,0
+2019,ghana,98,5.0,0.61,0.87,0.49,0.38,0.25,0.04,2.37,GHA,Sub-Saharan Africa,Lower middle income,0
+2019,guinea,118,4.53,0.38,0.83,0.38,0.33,0.21,0.09,2.33,GIN,Sub-Saharan Africa,Low income,0
+2019,greece,82,5.29,1.18,1.16,1.0,0.07,0.0,0.03,1.85,GRC,Europe & Central Asia,High income,1
+2019,guatemala,27,6.44,0.8,1.27,0.75,0.54,0.18,0.08,2.83,GTM,Latin America & Caribbean,Upper middle income,0
+2019,"hong kong sar, china",76,5.43,1.44,1.28,1.12,0.44,0.26,0.29,0.61,HKG,East Asia & Pacific,High income,0
+2019,honduras,59,5.86,0.64,1.24,0.83,0.51,0.25,0.08,2.32,HND,Latin America & Caribbean,Lower middle income,0
+2019,croatia,75,5.43,1.16,1.27,0.91,0.3,0.12,0.02,1.66,HRV,Europe & Central Asia,High income,0
+2019,haiti,147,3.6,0.32,0.69,0.45,0.03,0.42,0.11,1.58,HTI,Latin America & Caribbean,Low income,0
+2019,hungary,62,5.76,1.2,1.41,0.83,0.2,0.08,0.02,2.02,HUN,Europe & Central Asia,High income,1
+2019,indonesia,92,5.19,0.93,1.2,0.66,0.49,0.5,0.03,1.38,IDN,East Asia & Pacific,Lower middle income,0
+2019,india,140,4.02,0.76,0.77,0.59,0.5,0.2,0.09,1.12,IND,South Asia,Lower middle income,0
+2019,ireland,16,7.02,1.5,1.55,1.0,0.52,0.3,0.31,1.85,IRL,Europe & Central Asia,High income,1
+2019,iran,117,4.55,1.1,0.84,0.79,0.31,0.27,0.13,1.12,IRN,Middle East & North Africa,Upper middle income,0
+2019,iraq,126,4.44,1.04,0.98,0.57,0.24,0.15,0.09,1.36,IRQ,Middle East & North Africa,Upper middle income,0
+2019,iceland,4,7.49,1.38,1.62,1.03,0.59,0.35,0.12,2.4,ISL,Europe & Central Asia,High income,0
+2019,israel,13,7.14,1.28,1.46,1.03,0.37,0.26,0.08,2.67,ISR,Middle East & North Africa,High income,1
+2019,italy,36,6.22,1.29,1.49,1.04,0.23,0.16,0.03,1.98,ITA,Europe & Central Asia,High income,1
+2019,jamaica,56,5.89,0.83,1.48,0.83,0.49,0.11,0.03,2.13,JAM,Latin America & Caribbean,Upper middle income,0
+2019,jordan,101,4.91,0.84,1.23,0.82,0.38,0.11,0.13,1.41,JOR,Middle East & North Africa,Upper middle income,0
+2019,japan,58,5.89,1.33,1.42,1.09,0.45,0.07,0.14,1.4,JPN,East Asia & Pacific,High income,1
+2019,kazakhstan,60,5.81,1.17,1.51,0.73,0.41,0.15,0.1,1.75,KAZ,Europe & Central Asia,Upper middle income,0
+2019,kenya,121,4.51,0.51,0.98,0.58,0.43,0.37,0.05,1.58,KEN,Sub-Saharan Africa,Lower middle income,0
+2019,kyrgyz republic,86,5.26,0.55,1.44,0.72,0.51,0.3,0.02,1.72,KGZ,Europe & Central Asia,Lower middle income,0
+2019,cambodia,109,4.7,0.57,1.12,0.64,0.61,0.23,0.06,1.46,KHM,East Asia & Pacific,Lower middle income,0
+2019,korea,54,5.9,1.3,1.22,1.04,0.16,0.18,0.06,1.95,KOR,East Asia & Pacific,High income,1
+2019,kuwait,51,6.02,1.5,1.32,0.81,0.49,0.14,0.1,1.66,KWT,Middle East & North Africa,High income,0
+2019,lao pdr,105,4.8,0.76,1.03,0.55,0.55,0.27,0.16,1.47,LAO,East Asia & Pacific,Lower middle income,0
+2019,lebanon,91,5.2,0.99,1.22,0.82,0.22,0.17,0.03,1.76,LBN,Middle East & North Africa,Upper middle income,0
+2019,liberia,141,3.98,0.07,0.92,0.44,0.37,0.23,0.03,1.9,LBR,Sub-Saharan Africa,Low income,0
+2019,libya,72,5.53,1.04,1.3,0.67,0.42,0.13,0.15,1.8,LBY,Middle East & North Africa,Upper middle income,0
+2019,sri lanka,130,4.37,0.95,1.27,0.83,0.47,0.24,0.05,0.56,LKA,South Asia,Upper middle income,0
+2019,lesotho,144,3.8,0.49,1.17,0.17,0.36,0.11,0.09,1.42,LSO,Sub-Saharan Africa,Lower middle income,0
+2019,lithuania,42,6.15,1.24,1.52,0.82,0.29,0.04,0.04,2.2,LTU,Europe & Central Asia,High income,1
+2019,luxembourg,14,7.09,1.61,1.48,1.01,0.53,0.19,0.32,1.95,LUX,Europe & Central Asia,High income,1
+2019,latvia,53,5.94,1.19,1.47,0.81,0.26,0.08,0.06,2.07,LVA,Europe & Central Asia,High income,1
+2019,morocco,89,5.21,0.8,0.78,0.78,0.42,0.04,0.08,2.31,MAR,Middle East & North Africa,Lower middle income,0
+2019,moldova,71,5.53,0.69,1.33,0.74,0.25,0.18,0.0,2.35,MDA,Europe & Central Asia,Lower middle income,0
+2019,madagascar,143,3.93,0.27,0.92,0.56,0.15,0.17,0.04,1.83,MDG,Sub-Saharan Africa,Low income,0
+2019,mexico,23,6.6,1.07,1.32,0.86,0.43,0.07,0.07,2.76,MEX,Latin America & Caribbean,Upper middle income,1
+2019,north macedonia,84,5.27,0.98,1.29,0.84,0.35,0.19,0.03,1.6,MKD,Europe & Central Asia,Upper middle income,0
+2019,mali,128,4.39,0.39,1.11,0.31,0.33,0.15,0.05,2.06,MLI,Sub-Saharan Africa,Low income,0
+2019,malta,22,6.73,1.3,1.52,1.0,0.56,0.38,0.15,1.82,MLT,Middle East & North Africa,High income,0
+2019,myanmar,131,4.36,0.71,1.18,0.56,0.53,0.57,0.17,0.65,MMR,East Asia & Pacific,Lower middle income,0
+2019,montenegro,73,5.52,1.05,1.36,0.87,0.2,0.14,0.08,1.82,MNE,Europe & Central Asia,Upper middle income,0
+2019,mongolia,83,5.29,0.95,1.53,0.67,0.32,0.24,0.04,1.55,MNG,East Asia & Pacific,Lower middle income,0
+2019,mozambique,123,4.47,0.2,0.99,0.39,0.49,0.2,0.14,2.06,MOZ,Sub-Saharan Africa,Low income,0
+2019,mauritania,122,4.49,0.57,1.17,0.49,0.07,0.11,0.09,2.0,MRT,Sub-Saharan Africa,Lower middle income,0
+2019,mauritius,57,5.89,1.12,1.4,0.8,0.5,0.22,0.06,1.8,MUS,Sub-Saharan Africa,Upper middle income,0
+2019,malawi,150,3.41,0.19,0.56,0.5,0.44,0.22,0.09,1.41,MWI,Sub-Saharan Africa,Low income,0
+2019,malaysia,80,5.34,1.22,1.17,0.83,0.51,0.26,0.02,1.33,MYS,East Asia & Pacific,Upper middle income,0
+2019,namibia,113,4.64,0.88,1.31,0.48,0.4,0.07,0.06,1.44,NAM,Sub-Saharan Africa,Upper middle income,0
+2019,niger,114,4.63,0.14,0.77,0.37,0.32,0.19,0.1,2.74,NER,Sub-Saharan Africa,Low income,0
+2019,nigeria,85,5.27,0.7,1.11,0.25,0.43,0.22,0.04,2.53,NGA,Sub-Saharan Africa,Lower middle income,0
+2019,nicaragua,45,6.11,0.69,1.33,0.84,0.44,0.2,0.13,2.49,NIC,Latin America & Caribbean,Lower middle income,0
+2019,netherlands,5,7.49,1.4,1.52,1.0,0.56,0.32,0.3,2.39,NLD,Europe & Central Asia,High income,1
+2019,norway,3,7.55,1.49,1.58,1.03,0.6,0.27,0.34,2.24,NOR,Europe & Central Asia,High income,1
+2019,nepal,100,4.91,0.45,1.23,0.68,0.44,0.29,0.09,1.75,NPL,South Asia,Low income,0
+2019,new zealand,8,7.31,1.3,1.56,1.03,0.59,0.33,0.38,2.13,NZL,East Asia & Pacific,High income,1
+2019,pakistan,67,5.65,0.68,0.89,0.54,0.31,0.22,0.1,2.92,PAK,South Asia,Lower middle income,0
+2019,panama,31,6.32,1.15,1.44,0.91,0.52,0.11,0.05,2.14,PAN,Latin America & Caribbean,High income,0
+2019,peru,65,5.7,0.96,1.27,0.85,0.46,0.08,0.03,2.04,PER,Latin America & Caribbean,Upper middle income,0
+2019,philippines,69,5.63,0.81,1.29,0.66,0.56,0.12,0.11,2.09,PHL,East Asia & Pacific,Lower middle income,0
+2019,poland,40,6.18,1.21,1.44,0.88,0.48,0.12,0.05,2.0,POL,Europe & Central Asia,High income,1
+2019,portugal,66,5.69,1.22,1.43,1.0,0.51,0.05,0.03,1.46,PRT,Europe & Central Asia,High income,1
+2019,paraguay,63,5.74,0.86,1.48,0.78,0.51,0.18,0.08,1.86,PRY,Latin America & Caribbean,Upper middle income,0
+2019,qatar,29,6.37,1.68,1.31,0.87,0.56,0.22,0.17,1.56,QAT,Middle East & North Africa,High income,0
+2019,romania,48,6.07,1.16,1.23,0.83,0.46,0.08,0.01,2.3,ROU,Europe & Central Asia,Upper middle income,0
+2019,russia,68,5.65,1.18,1.45,0.73,0.33,0.08,0.03,1.84,RUS,Europe & Central Asia,Upper middle income,0
+2019,rwanda,152,3.33,0.36,0.71,0.61,0.56,0.22,0.41,0.47,RWA,Sub-Saharan Africa,Low income,0
+2019,saudi arabia,28,6.38,1.4,1.36,0.8,0.44,0.08,0.13,2.17,SAU,Middle East & North Africa,High income,0
+2019,senegal,111,4.68,0.45,1.13,0.57,0.29,0.15,0.07,2.01,SEN,Sub-Saharan Africa,Lower middle income,0
+2019,singapore,34,6.26,1.57,1.46,1.14,0.56,0.27,0.45,0.81,SGP,East Asia & Pacific,High income,0
+2019,sierra leone,129,4.37,0.27,0.84,0.24,0.31,0.25,0.05,2.42,SLE,Sub-Saharan Africa,Low income,0
+2019,el salvador,35,6.25,0.79,1.24,0.79,0.43,0.09,0.07,2.83,SLV,Latin America & Caribbean,Lower middle income,0
+2019,somalia,112,4.67,0.0,0.7,0.27,0.56,0.24,0.27,2.63,SOM,Sub-Saharan Africa,Low income,0
+2019,serbia,70,5.6,1.0,1.38,0.85,0.28,0.14,0.04,1.9,SRB,Europe & Central Asia,Upper middle income,0
+2019,south sudan,156,2.85,0.31,0.58,0.3,0.01,0.2,0.09,1.37,SSD,Sub-Saharan Africa,Low income,0
+2019,slovak republic,38,6.2,1.25,1.5,0.88,0.33,0.12,0.01,2.1,SVK,Europe & Central Asia,High income,1
+2019,slovenia,44,6.12,1.26,1.52,0.95,0.56,0.14,0.06,1.62,SVN,Europe & Central Asia,High income,1
+2019,sweden,7,7.34,1.39,1.49,1.01,0.57,0.27,0.37,2.25,SWE,Europe & Central Asia,High income,1
+2019,eswatini,135,4.21,0.81,1.15,0.0,0.31,0.07,0.14,1.73,SWZ,Sub-Saharan Africa,Lower middle income,0
+2019,syrian arab republic,149,3.46,0.62,0.38,0.44,0.01,0.33,0.14,1.54,SYR,Middle East & North Africa,Low income,0
+2019,chad,132,4.35,0.35,0.77,0.19,0.17,0.2,0.08,2.59,TCD,Sub-Saharan Africa,Low income,0
+2019,togo,139,4.09,0.28,0.57,0.41,0.29,0.18,0.09,2.27,TGO,Sub-Saharan Africa,Low income,0
+2019,thailand,52,6.01,1.05,1.41,0.83,0.56,0.36,0.03,1.78,THA,East Asia & Pacific,Upper middle income,0
+2019,tajikistan,74,5.47,0.49,1.1,0.72,0.39,0.23,0.14,2.4,TJK,Europe & Central Asia,Low income,0
+2019,turkmenistan,87,5.25,1.05,1.54,0.66,0.39,0.24,0.03,1.33,TKM,Europe & Central Asia,Upper middle income,0
+2019,tunisia,124,4.46,0.92,1.0,0.82,0.17,0.06,0.06,1.44,TUN,Middle East & North Africa,Lower middle income,0
+2019,turkey,79,5.37,1.18,1.36,0.81,0.2,0.08,0.11,1.64,TUR,Europe & Central Asia,Upper middle income,1
+2019,tanzania,153,3.23,0.48,0.89,0.5,0.42,0.28,0.15,0.53,TZA,Sub-Saharan Africa,Low income,0
+2019,uganda,136,4.19,0.33,1.07,0.44,0.36,0.25,0.06,1.68,UGA,Sub-Saharan Africa,Low income,0
+2019,ukraine,133,4.33,0.82,1.39,0.74,0.18,0.19,0.01,1.01,UKR,Europe & Central Asia,Lower middle income,0
+2019,uruguay,33,6.29,1.12,1.47,0.89,0.52,0.13,0.15,2.01,URY,Latin America & Caribbean,High income,0
+2019,united states,19,6.89,1.43,1.46,0.87,0.45,0.28,0.13,2.27,USA,North America,High income,1
+2019,uzbekistan,41,6.17,0.75,1.53,0.76,0.63,0.32,0.24,1.95,UZB,Europe & Central Asia,Lower middle income,0
+2019,venezuela,108,4.71,0.96,1.43,0.81,0.15,0.06,0.05,1.25,VEN,Latin America & Caribbean,Upper middle income,0
+2019,vietnam,94,5.18,0.74,1.35,0.85,0.54,0.15,0.07,1.47,VNM,East Asia & Pacific,Lower middle income,0
+2019,kosovo,46,6.1,0.88,1.23,0.76,0.49,0.26,0.01,2.47,XKX,Europe & Central Asia,Upper middle income,0
+2019,yemen,151,3.38,0.29,1.16,0.46,0.14,0.11,0.08,1.14,YEM,Middle East & North Africa,Low income,0
+2019,south africa,106,4.72,0.96,1.35,0.47,0.39,0.13,0.06,1.37,ZAF,Sub-Saharan Africa,Upper middle income,0
+2019,zambia,138,4.11,0.58,1.06,0.43,0.43,0.25,0.09,1.28,ZMB,Sub-Saharan Africa,Lower middle income,0
+2019,zimbabwe,146,3.66,0.37,1.11,0.43,0.36,0.15,0.09,1.15,ZWE,Sub-Saharan Africa,Lower middle income,0

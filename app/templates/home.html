@@ -1,0 +1,33 @@
+<!doctype html> 
+<html lang= "en">
+<head>
+</head> 
+
+    <body>
+        {% extends "layout.html" %}
+        {% block content %}
+        <div class="home">
+            <img src="/static/images/whr_logo.png" />
+            <h2> Développeur Data @Simplon.co / Juin - Décembre 2019</h2>
+            <h2> Datavisualisations</h2>
+            <h1> Classement 2019</h1>
+            <p><a href="http://worldhappiness.herokuapp.com/whr"> Mappemonde</a></p>
+            <h1> Fiabilité de l'échantillonnage (1000 par pays)</h1>
+            <p><a href="http://worldhappiness.herokuapp.com/check"> Facteur Family 2015 - 2019</a></p>
+            <h1> 1. Evolution du Happiness Score</h1>
+            <p><a href="http://worldhappiness.herokuapp.com/hsyears"> 2015 - 2019</a></p>
+            <p><a href="http://worldhappiness.herokuapp.com/hsregion"> Par région</a></p>
+            <h1> 2. Les facteurs qui ont contribué au Happiness Score</h1>
+            <p><a href="http://worldhappiness.herokuapp.com/fctrsdst"> Distribution 2019</a></p>
+            <p><a href="http://worldhappiness.herokuapp.com/hshtmp"> Matrice de corrélation</a></p>
+            <p><a href="http://worldhappiness.herokuapp.com/fctrsdstp5"> Top 5</a></p>
+            <p><a href="http://worldhappiness.herokuapp.com/fctrsdstrg"> Région</a></p>
+            <h1> 3. Corrélation Income Share & Happiness Score</h1>
+            <p><a href="http://worldhappiness.herokuapp.com/incshare"> échantillon 2015</a></p>
+            <p><a href="http://worldhappiness.herokuapp.com/incshareL"> % détenu par les 20% les plus pauvres</a></p>
+            <p><a href="http://worldhappiness.herokuapp.com/incshareH"> Matrice de corrélation</a></p>
+        </div>
+        {% endblock %}
+    </body>
+
+</html>
