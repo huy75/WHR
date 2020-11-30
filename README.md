@@ -22,15 +22,15 @@ I would like to explore the data related to the [World Happiness Report](https:/
 ## Conceptual Data Model
 ![Conceptual Data Model](https://i.ibb.co/rkpzkWx/MCD.png)
  
- ## WHR_create
+ ## WHR_Create
  
  - Data fetch, cleaning & merge
  - Create a database from the results
  - Optimize the database:
-	 - 1) Optimize table data types.
-	 - 2) Set up the relations between the tables, and verify the constraints.
-	 - 3) Secure the database.
-	 - 4) Optimize the SQL queries.
+	 - Optimize table data types.
+	 - Set up the relations between the tables, and verify the constraints.
+	 - Secure the database.
+	 - Optimize the SQL queries.
 
 ## WHR_Exploit
 
