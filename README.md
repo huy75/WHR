@@ -39,8 +39,8 @@ The steps are:
  - Injecting the tables into the dataframes (Pymysql &SQLAlchemy).
  - Produce the charts with Plotly.
  
-**Note**: GitHub performs a static render of the notebooks and doesn't include the embedded HTML/JavaScript that makes up graphs. Please use this [link](
-https://nbviewer.jupyter.org/github/huy75/WHR/blob/main/WH_Exploit.ipynb) to see the WHR_Exploit file with the interactive plotly charts.
+**Note**: GitHub performs a static render of the notebooks and doesn't include the embedded HTML/JavaScript that makes up graphs. Please use this **[link](
+https://nbviewer.jupyter.org/github/huy75/WHR/blob/main/WH_Exploit.ipynb)** to see the WHR_Exploit file with the interactive plotly charts.
 
 ## Answers
  - Is there an evolution of the Happiness Score over the period of 2015 – 2019 ? 
